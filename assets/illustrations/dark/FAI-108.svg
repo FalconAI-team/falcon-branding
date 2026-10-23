@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke="#F2F3F1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(-56.953 -114.933) scale(1.370647 1.386617)">
+<g id="fai108-connections" >
+<path d="M500 532v128M213 660v-58h574v58M500 602v58" fill="none" stroke-width="11" />
+</g><g id="fai108-main-task" >
+<rect x="310" y="274" width="379" height="261" rx="13" fill="#141617" stroke-width="12"/><path d="M312 286q0 -12 12 -12h351q14 0 14 14v43H310Z" fill="#686A6A" /><circle cx="406" cy="434" r="65" fill="#FFB020"/><path d="M376.75 434l19.5 19.5 39.0 -42.25" fill="none" stroke="#141617" stroke-width="6" /><rect x="499" y="376" width="157" height="27" rx="12" fill="#686A6A" stroke="none"/><rect x="499" y="422" width="157" height="22" rx="11" fill="#1C1F21" stroke="none"/><rect x="499" y="460" width="120" height="22" rx="11" fill="#1C1F21" stroke="none"/>
+</g><g id="fai108-subtask-97" >
+<rect x="97" y="660" width="229" height="152" rx="12" fill="#141617" stroke-width="11"/><path d="M97 700h229v-30q0 -10 -10 -10H107q-10 0 -10 10Z" fill="#686A6A" /><circle cx="148" cy="755" r="25" fill="#FFB020" stroke-width="8"/><rect x="199" y="731" width="103" height="20" rx="10" fill="#686A6A" stroke="none"/><rect x="199" y="768" width="82" height="19" rx="9" fill="#1C1F21" stroke="none"/>
+</g><g id="fai108-subtask-385" >
+<rect x="385" y="660" width="229" height="152" rx="12" fill="#141617" stroke-width="11"/><path d="M385 700h229v-30q0 -10 -10 -10H395q-10 0 -10 10Z" fill="#686A6A" /><circle cx="436" cy="755" r="25" fill="#FFB020" stroke-width="8"/><rect x="487" y="731" width="103" height="20" rx="10" fill="#686A6A" stroke="none"/><rect x="487" y="768" width="82" height="19" rx="9" fill="#1C1F21" stroke="none"/>
+</g><g id="fai108-subtask-672" >
+<rect x="672" y="660" width="229" height="152" rx="12" fill="#141617" stroke-width="11"/><path d="M672 700h229v-30q0 -10 -10 -10H682q-10 0 -10 10Z" fill="#686A6A" /><circle cx="723" cy="755" r="25" fill="#FFB020" stroke-width="8"/><rect x="774" y="731" width="103" height="20" rx="10" fill="#686A6A" stroke="none"/><rect x="774" y="768" width="82" height="19" rx="9" fill="#1C1F21" stroke="none"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1448 1086" fill="none" style="color:#0E3B5D" role="img" aria-labelledby="fai001-title">
+  <title id="fai001-title">Экосистема Falcon AI</title>
+  <style>
+    .fai001-ink{fill:#14171A}.fai001-fill{fill:#A6A7A8}.fai001-muted{fill:#EDEFEC}.fai001-paper{fill:#FFFFFF}.fai001-accent{fill:#FFB020}.fai001-skin{fill:#EDB182}
+    .fai001-outline{stroke:#14171A;stroke-width:9;stroke-linejoin:round;stroke-linecap:round}.fai001-line{fill:none;stroke:#14171A;stroke-width:9;stroke-linejoin:round;stroke-linecap:round}
+  </style>
+  <g id="fai001-connections" class="fai001-line" stroke-width="13">
+    <path d="M584 371 655 443M871 375 803 443M433 549H594M857 549H1027M584 734 654 663M890 728 802 663"/>
+  </g>
+  <g id="fai001-document" class="fai001-outline">
+    <path class="fai001-paper" d="M386 114H526L590 178V349Q590 377 563 377H386Q361 377 361 351V139Q361 114 386 114Z"/>
+    <path class="fai001-fill" d="M526 114V163Q526 179 543 179H590Z"/>
+    <g class="fai001-fill" stroke="none">
+      <rect x="398" y="171" width="106" height="27" rx="13.5"/>
+      <rect x="398" y="221" width="151" height="16" rx="8"/>
+      <rect x="398" y="256" width="151" height="16" rx="8"/>
+      <circle cx="415" cy="323" r="18"/>
+      <rect x="446" y="315" width="103" height="17" rx="8.5"/>
+    </g>
+  </g>
+  <g id="fai001-vehicle" class="fai001-outline">
+    <rect class="fai001-paper" x="835" y="159" width="239" height="195" rx="23"/>
+    <path class="fai001-fill" d="M1074 198H1137Q1150 198 1160 211L1220 286Q1234 302 1234 325V356H1074Z"/>
+    <path class="fai001-muted" d="M1108 247H1154L1198 301Q1201 307 1193 307H1108Z"/>
+    <rect class="fai001-accent" x="1204" y="301" width="29" height="29" rx="5"/>
+    <path class="fai001-line" d="M1074 200V351"/>
+    <g class="fai001-fill" stroke="none">
+      <rect x="865" y="215" width="175" height="17" rx="8.5"/>
+      <rect x="865" y="253" width="175" height="17" rx="8.5"/>
+      <rect x="865" y="290" width="95" height="17" rx="8.5"/>
+    </g>
+    <circle class="fai001-ink" cx="921" cy="357" r="31"/>
+    <circle class="fai001-paper" cx="921" cy="357" r="15" stroke="none"/>
+    <circle class="fai001-ink" cx="1159" cy="357" r="31"/>
+    <circle class="fai001-paper" cx="1159" cy="357" r="15" stroke="none"/>
+  </g>
+  <g id="fai001-store" class="fai001-outline">
+    <rect class="fai001-accent" x="168" y="416" width="154" height="44" rx="16"/>
+    <path class="fai001-paper" d="M109 488H384V679H109Z"/>
+    <path class="fai001-fill" d="M122 449H375L401 519Q407 545 384 545Q365 545 360 519Q365 545 342 545Q322 545 315 519Q317 545 296 545Q278 545 274 519Q278 545 254 545Q234 545 232 519Q232 545 208 545Q186 545 181 519Q179 545 159 545Q138 545 139 519Q136 545 113 545Q84 545 88 519Z"/>
+    <path class="fai001-paper" d="M153 449H191L180 523Q178 545 157 545Q137 545 139 523Z"/>
+    <path class="fai001-paper" d="M227 449H266L274 523Q277 545 255 545Q235 545 232 524Z"/>
+    <path class="fai001-paper" d="M301 449H339L360 523Q365 545 343 545Q322 545 315 524Z"/>
+    <path class="fai001-line" d="M122 449 103 521M191 449 181 522M227 449 232 523M266 449 274 523M301 449 315 523M339 449 360 523M375 449 398 519"/>
+    <rect class="fai001-muted" x="142" y="568" width="133" height="84" rx="3"/>
+    <path class="fai001-line" d="M174 629 205 596M214 629 245 596" style="stroke:#A6A7A8;stroke-width:10"/>
+    <path class="fai001-muted" d="M300 568H360V678H300Z"/>
+    <circle class="fai001-ink" cx="337" cy="619" r="6" stroke="none"/>
+    <path class="fai001-line" d="M94 679H400" stroke-width="12"/>
+  </g>
+  <g id="fai001-payment-card" class="fai001-outline">
+    <rect class="fai001-paper" x="1063" y="468" width="299" height="203" rx="27"/>
+    <path class="fai001-fill" d="M1068 502H1357V537H1068Z" stroke="none"/>
+    <rect class="fai001-accent" x="1098" y="563" width="46" height="33" rx="6" stroke-width="7"/>
+    <g class="fai001-fill" stroke="none">
+      <rect x="1095" y="617" width="128" height="15" rx="7.5"/>
+      <rect x="1095" y="639" width="84" height="14" rx="7"/>
+      <circle cx="1271" cy="623" r="27"/>
+    </g>
+    <circle class="fai001-accent" cx="1308" cy="623" r="27" stroke="none"/>
+  </g>
+  <g id="fai001-profile" class="fai001-outline">
+    <rect class="fai001-paper" x="276" y="744" width="379" height="228" rx="30"/>
+    <circle class="fai001-muted" cx="375" cy="854" r="73" stroke="none"/>
+    <path class="fai001-fill" d="M327 909Q329 875 375 875Q422 875 425 909Q375 944 327 909Z"/>
+    <circle class="fai001-skin" cx="375" cy="843" r="31"/>
+    <g class="fai001-fill" stroke="none">
+      <rect x="472" y="789" width="145" height="26" rx="13"/>
+      <circle cx="483" cy="852" r="10"/>
+      <rect x="508" y="844" width="109" height="16" rx="8"/>
+      <circle cx="483" cy="891" r="10"/>
+      <rect x="508" y="883" width="79" height="16" rx="8"/>
+    </g>
+  </g>
+  <g id="fai001-media" class="fai001-outline">
+    <rect class="fai001-paper" x="858" y="731" width="310" height="249" rx="28"/>
+    <rect class="fai001-muted" x="879" y="758" width="261" height="153" rx="12" stroke-width="6"/>
+    <circle class="fai001-accent" cx="1094" cy="804" r="23" stroke="none"/>
+    <path class="fai001-paper" d="M958 909 1065 839 1138 908Z" stroke-width="6"/>
+    <path class="fai001-fill" d="M881 899 977 823Q980 819 985 824L1070 908H892Q881 908 881 899Z" stroke-width="6"/>
+    <g class="fai001-fill" stroke="none">
+      <circle cx="907" cy="944" r="18"/>
+      <rect x="935" y="936" width="176" height="15" rx="7.5"/>
+    </g>
+  </g>
+  <g id="fai001-orchestration-hub" class="fai001-outline">
+    <circle class="fai001-paper" cx="727" cy="552" r="132" stroke-width="12"/>
+    <path class="fai001-fill" d="M714 480H738L742 501 756 508 774 498 792 516 782 535 789 550 810 555V577L789 582 783 596 792 615 775 631 756 622 742 628 737 649H713L708 628 693 622 675 631 657 614 667 596 661 581 640 577V554L661 549 667 535 657 516 674 499 693 508 708 502Z" transform="translate(3 -12)"/>
+    <circle class="fai001-accent" cx="727" cy="552" r="25"/>
+  </g>
+  <g id="fai001-connection-nodes" class="fai001-accent fai001-outline" stroke-width="10">
+    <circle cx="584" cy="371" r="18"/><circle cx="872" cy="375" r="18"/>
+    <circle cx="433" cy="549" r="17"/><circle cx="1027" cy="549" r="17"/>
+    <circle cx="584" cy="734" r="18"/><circle cx="890" cy="728" r="18"/>
+  </g>
+</svg>

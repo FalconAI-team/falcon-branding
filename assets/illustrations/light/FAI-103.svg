@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(2.7866666667)">
+<g id="fai103-published-board" >
+<rect x="91" y="96" width="266" height="279" rx="12" fill="#A6A7A8" stroke="#14171A" stroke-width="6" />
+<rect x="119" y="130" width="205" height="221" rx="6" fill="#FFFFFF" stroke="#14171A" stroke-width="5" />
+<rect x="134" y="157" width="178" height="113" rx="0" fill="#EDEFEC" stroke="#14171A" stroke-width="4" />
+<path d="M139 291h163" fill="none" stroke="#A6A7A8" stroke-width="13" />
+<path d="M138 311h131" fill="none" stroke="#A6A7A8" stroke-width="12" />
+<path d="M138 331h103" fill="none" stroke="#A6A7A8" stroke-width="12" />
+<circle cx="220" cy="115" r="10" fill="#14171A" stroke="#14171A" stroke-width="3" />
+<circle cx="217" cy="112" r="2" fill="#FFFFFF" stroke="none" stroke-width="3" />
+<path d="M216 123h7v15h-7Z" fill="#A6A7A8" stroke="#14171A" stroke-width="2" />
+</g><g id="fai103-property-house" >
+<path d="m169 213 48-37 45 34v48h-93Z" fill="#A6A7A8" stroke="#14171A" stroke-width="4" />
+<path d="m239 183v-11h12v22Z" fill="#A6A7A8" stroke="#14171A" stroke-width="3" />
+<path d="M161 214l56-44 55 42" fill="none" stroke="#14171A" stroke-width="6" />
+<rect x="185" y="217" width="20" height="22" rx="1" fill="#FFFFFF" stroke="#14171A" stroke-width="3" />
+<path d="M195 217v22M185 228h20" fill="none" stroke="#14171A" stroke-width="2" />
+<rect x="223" y="226" width="22" height="32" rx="0" fill="#FFFFFF" stroke="#14171A" stroke-width="3" />
+</g><g id="fai103-publication-confirmation" >
+<circle cx="333" cy="139" r="49" fill="#FFB020" stroke="#14171A" stroke-width="6" />
+<path d="m309 141 15 15 35-38" fill="none" stroke="#14171A" stroke-width="10" />
+</g>
+</g>
+</svg>

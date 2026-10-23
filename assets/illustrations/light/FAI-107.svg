@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke="#14171A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(-16.905 -207.548) scale(1.309451 1.479032)">
+<g id="fai107-stand" >
+<rect x="87" y="452" width="25" height="353" rx="10" fill="#A6A7A8"/><rect x="856" y="452" width="25" height="353" rx="10" fill="#A6A7A8"/><rect x="108" y="767" width="752" height="20" rx="5" fill="#A6A7A8"/><path d="M149 826l-89 32q-18 4 -21 -11q-4 -11 10 -18l88 -29q20 -7 24 10q3 10 -12 16Z" fill="#A6A7A8" /><path d="M836 826l89 32q18 4 21 -11q4 -11 -10 -18l-88 -29q-20 -7 -24 10q-3 10 12 16Z" fill="#A6A7A8" /><circle cx="56" cy="864" r="16" fill="#A6A7A8" stroke-width="6"/><circle cx="151" cy="842" r="16" fill="#A6A7A8" stroke-width="6"/><circle cx="846" cy="842" r="16" fill="#A6A7A8" stroke-width="6"/><circle cx="930" cy="864" r="16" fill="#A6A7A8" stroke-width="6"/><circle cx="85" cy="490" r="16" fill="#A6A7A8"/><circle cx="879" cy="490" r="16" fill="#A6A7A8"/>
+</g><g id="fai107-empty-board" >
+<rect x="114" y="260" width="741" height="468" rx="18" fill="#A6A7A8" stroke-width="7"/><rect x="130" y="276" width="709" height="438" rx="13" fill="#FFFFFF" stroke-width="6"/><path d="M368 276v438M605 276v438" fill="none" stroke-width="5" /><rect x="149" y="293" width="202" height="43" rx="7" fill="#A6A7A8" stroke="none"/><rect x="386" y="293" width="202" height="43" rx="7" fill="#FFB020" stroke="none"/><rect x="624" y="293" width="198" height="43" rx="7" fill="#A6A7A8" stroke="none"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(2.7866666667)">
+<g id="fai077-phone" >
+<rect x="221" y="62" width="174" height="321" rx="30" fill="#686A6A" stroke="#F2F3F1" stroke-width="5" />
+<rect x="229" y="72" width="158" height="302" rx="23" fill="#141617" stroke="#F2F3F1" stroke-width="3" />
+<path d="M270 73h74l-2 8q-1 7-9 7h-53q-8 0-10-8Z" fill="#F2F3F1" stroke="none" stroke-width="3" />
+<path d="M218 123v20M398 139v36" fill="none" stroke="#F2F3F1" stroke-width="2" />
+<rect x="240" y="127" width="135" height="59" rx="8" fill="#686A6A" stroke="none" stroke-width="3" />
+<circle cx="261" cy="157" r="11" fill="#FFB020" stroke="none" stroke-width="3" />
+<rect x="323" y="148" width="41" height="20" rx="10" fill="#FFB020" stroke="none" stroke-width="3" />
+<circle cx="354" cy="158" r="9" fill="#141617" stroke="none" stroke-width="3" />
+<rect x="241" y="194" width="134" height="57" rx="7" fill="#1C1F21" stroke="none" stroke-width="3" />
+<circle cx="265" cy="223" r="11" fill="#686A6A" stroke="none" stroke-width="3" />
+<rect x="324" y="213" width="41" height="20" rx="10" fill="#686A6A" stroke="none" stroke-width="3" />
+<circle cx="334" cy="223" r="9" fill="#141617" stroke="none" stroke-width="3" />
+</g><g id="fai077-payment-card" transform="rotate(-16 156 257)">
+<rect x="59" y="193" width="195" height="128" rx="10" fill="#686A6A" stroke="#F2F3F1" stroke-width="4" />
+<rect x="81" y="227" width="35" height="29" rx="6" fill="#FFB020" stroke="#F2F3F1" stroke-width="1.8" />
+<path d="M104 227v29M81 238h35M81 247h35" fill="none" stroke="#F2F3F1" stroke-width="1.3" />
+<circle cx="211" cy="293" r="14" fill="#FFB020" stroke="none" stroke-width="3" />
+<circle cx="230" cy="293" r="14" fill="#1C1F21" stroke="none" stroke-width="3" />
+</g>
+</g>
+</svg>

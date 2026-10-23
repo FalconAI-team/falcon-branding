@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(2.7866666667)">
+<g id="fai078-receipt-roll" >
+<path d="M112 76Q62 65 58 116v15q0 11 10 11h46Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="7" />
+<path d="M87 76h191q32 0 32 34v266l-25-18-24 20-24-20-24 20-24-20-24 20-24-19-24 18V112Q116 84 101 78Z" fill="#141617" stroke="#F2F3F1" stroke-width="7" />
+<rect x="139" y="117" width="153" height="27" rx="7" fill="#686A6A" stroke="none" stroke-width="3" />
+<circle cx="149" cy="178" r="11" fill="#686A6A" stroke="none" stroke-width="3" />
+<path d="M178 180h109" fill="none" stroke="#686A6A" stroke-width="9" />
+<path d="M144 220h13" fill="none" stroke="#686A6A" stroke-width="10" />
+<path d="M144 249h13" fill="none" stroke="#686A6A" stroke-width="10" />
+<path d="M177 220h66" fill="none" stroke="#686A6A" stroke-width="9" />
+<path d="M177 249h64" fill="none" stroke="#686A6A" stroke-width="9" />
+<path d="M143 286h88" fill="none" stroke="#686A6A" stroke-width="10" />
+</g><g id="fai078-success" >
+<circle cx="320" cy="278" r="77" fill="#FFB020" stroke="#F2F3F1" stroke-width="7" />
+<path d="m282 280 27 27 52-57q8-9 16-2 8 8 0 16l-61 65q-7 7-14 0l-36-34q-9-9 0-17 8-8 16 2Z" fill="#141617" stroke="#F2F3F1" stroke-width="7" />
+</g>
+</g>
+</svg>

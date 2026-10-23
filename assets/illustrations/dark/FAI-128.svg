@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke="#F2F3F1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(14.768 6.619) scale(1.233566 1.273763)">
+<g id="fai128-woman-hair" >
+<path d="M218 270Q181 247 202 221Q215 210 215 197Q225 183 248 168Q273 120 312 123Q343 120 359 153Q369 173 364 191Q383 214 362 233Q357 253 373 260L329 282Z" fill="#F2F3F1" stroke-width="4" />
+</g><g id="fai128-woman-feet" >
+<path d="M175 817l-6 38 -19 31 36 9 20 -44 8 -30Z" fill="#EDB182" stroke-width="4" /><path d="M294 822l-8 35 50 27 20 -9 -29 -26 -4 -27Z" fill="#EDB182" stroke-width="4" /><path d="M169 850q14 -10 26 4l2 47q-3 18 -32 17q-36 1 -24 -21l21 -40Z" fill="#141617" stroke-width="4" /><path d="M291 847q9 20 23 7l17 -11 23 20 30 12q17 6 13 16q-6 15 -37 12l-78 -6q-13 -3 -3 -22Z" fill="#141617" stroke-width="4" /><path d="M147 905q19 10 48 2M284 888q50 9 109 4M166 871q14 -8 24 -2m-30 25q17 -9 29 -3M330 856l-8 8m18 -2l-9 9m19 -5l-10 9" fill="none" stroke-width="3" />
+</g><g id="fai128-woman-trousers" >
+<path d="M249 402q-21 33 -28 88l-26 146 -31 181q32 18 72 8l58 -231 -17 228q35 15 81 1l11 -279q7 -51 -8 -142Z" fill="#686A6A" stroke-width="4" /><path d="M326 416q8 38 -4 65m-2 13q-13 21 -26 100M193 688q20 -22 35 -49M248 437q18 -4 25 -16" fill="none" stroke-width="3" />
+</g><g id="fai128-woman-shirt" >
+<path d="M256 251q-36 2 -50 39q-11 32 3 98q7 38 35 41q32 6 57 -24l57 -2 3 -107q-5 -40 -31 -45Z" fill="#141617" stroke-width="4" /><path d="M241 273q25 26 31 93m85 -85l8 29M239 381q12 -18 31 -12m-19 27q8 -16 23 -20" fill="none" stroke-width="3" />
+</g><g id="fai128-woman-face" >
+<path d="M282 213v31l-25 8q41 35 74 10l-15 -12 -2 -23Z" fill="#EDB182" stroke-width="3" /><path d="M292 185q27 -7 48 -35q19 26 8 55q4 30 -17 30q-24 1 -39 -28q-17 -1 -15 -15q1 -19 15 -7Z" fill="#EDB182" stroke-width="3" /><path d="M318 180q7 -5 13 -1m14 -2l7 2M342 188l5 12 -5 3m-13 8q8 5 14 0" fill="none" stroke-width="2" /><circle cx="326" cy="189" r="2.7" fill="#F2F3F1" stroke="none"/><circle cx="348" cy="185" r="2.5" fill="#F2F3F1" stroke="none"/>
+</g><g id="fai128-man-feet" >
+<path d="M643 831v33l42 15 7 -19 -6 -28Z" fill="#EDB182" stroke-width="4" /><path d="M790 830v31l32 9 10 -22 -3 -20Z" fill="#EDB182" stroke-width="4" /><path d="M644 853q15 18 31 6l12 -11 11 45q0 12 -40 12l-69 2q-20 -2 -14 -15q5 -8 34 -18Z" fill="#141617" stroke-width="4" /><path d="M797 850q15 -5 22 8l6 -11q16 21 11 50q-6 20 -33 18q-35 1 -29 -20Z" fill="#141617" stroke-width="4" /><path d="M579 899q57 4 115 -7m83 13q28 10 57 -2M793 871q16 -8 28 2m-30 10q13 -7 27 -1m-29 11q14 -6 27 0M632 867l14 7m-24 0l13 7m-28 0l13 8" fill="none" stroke-width="3" />
+</g><g id="fai128-man-trousers" >
+<path d="M633 459l-15 77 19 300q24 12 56 -1l10 -127 -6 -47 8 -99 23 102 49 174q26 10 57 -4l-12 -104 -26 -99V470Z" fill="#F2F3F1" stroke-width="4" /><path d="M687 514q15 10 18 48m-5 -97l4 38" fill="none" stroke="#686A6A" stroke-width="3" />
+</g><g id="fai128-man-shirt" >
+<path d="M695 192l-38 45 -17 107 12 119q36 12 67 -1l16 -100 8 -144Z" fill="#141617" stroke-width="4" />
+</g><g id="fai128-man-jacket" >
+<path d="M692 183q-39 24 -58 36q-23 15 -40 51l-4 89 15 134q26 16 54 19l13 -202Z" fill="#686A6A" stroke-width="4" /><path d="M737 181q21 -9 38 11l41 27q36 17 37 59l-12 114 -2 87 -20 -8q-37 29 -92 25l-7 -142 4 -112Z" fill="#686A6A" stroke-width="4" /><path d="M691 200l-15 39 -13 -5 -8 15 19 2m63 -61l20 13 -15 39 -16 -7 -9 14M798 235q-28 3 -40 54l-16 57m-110 -91l-6 66M765 344q29 -10 53 3" fill="none" stroke-width="3" />
+</g><g id="fai128-man-head" >
+<path d="M634 129Q604 113 611 98Q613 89 631 91Q641 78 655 84Q679 69 697 81Q730 78 739 112l-11 54 -61 18Z" fill="#F2F3F1" stroke-width="4" /><path d="M672 167l15 32q17 24 46 -3l-10 -25 -1 -33Z" fill="#EDB182" stroke-width="3" /><path d="M634 129q24 3 36 -11q-2 18 13 26q8 10 3 24q-7 36 -30 27q-8 -15 -16 -20l-5 5q-12 2 -5 -11l4 -25Z" fill="#EDB182" stroke-width="3" /><path d="M683 159q-3 -31 14 -28q22 4 7 26l-11 7" fill="#EDB182" stroke-width="3" /><path d="M638 179q15 1 22 -6q17 17 28 -17q8 35 -18 50q-23 11 -32 -27Z" fill="#F2F3F1" stroke-width="3" /><path d="M642 145q10 -5 18 -1" fill="none" stroke-width="3" /><circle cx="654" cy="156" r="3" fill="#F2F3F1" stroke="none"/><path d="M649 188l11 -3 -7 7Z" fill="#141617" stroke="none" />
+</g><g id="fai128-content-poster" >
+<path d="M365 257l229 -19 32 325 -230 24Z" fill="#141617" stroke-width="4" /><circle cx="452" cy="333" r="47" fill="#1C1F21" stroke="none"/><path d="M403 461q59 -57 110 -79q36 -21 80 -10l14 119 -196 30Z" fill="#686A6A" stroke="none" /><circle cx="556" cy="481" r="46" fill="#FFB020" stroke="none"/><path d="M403 461q47 -4 91 21q57 31 113 10l-196 50Z" fill="#1C1F21" stroke="none" /><circle cx="615" cy="537" r="43" fill="#141617" stroke="none"/><circle cx="615" cy="537" r="37" fill="#FFB020"/><path d="M598.35 537l11.1 11.1 22.2 -24.05" fill="none" stroke="#141617" stroke-width="6" />
+</g><g id="fai128-poster-hands" >
+<path d="M300 377l30 -16q6 -8 10 -25q4 -14 22 -14q22 -6 22 5l-23 6q28 -5 24 5l-23 5q26 -5 21 5l-22 7q22 -6 19 4q-4 9 -32 15l-45 32q-11 -16 -3 -29Z" fill="#EDB182" stroke-width="3" /><path d="M548 238q14 -22 26 -16q10 -9 16 8q10 -4 9 11q-2 12 -8 1l-4 -10q3 19 -6 14l-8 -17q8 19 -2 15l-8 -10 -5 5Z" fill="#EDB182" stroke-width="3" /><path d="M722 347q-31 -12 -62 -25q-18 -10 -30 -4l-39 4q-17 4 -4 10l36 -1q-15 5 -8 12l8 -3q-13 7 -4 13l8 -2q-10 7 -1 12q20 8 44 0l47 28q12 -19 5 -44Z" fill="#EDB182" stroke-width="3" />
+</g>
+</g>
+</svg>

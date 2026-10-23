@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(2.7866666667)">
+<g id="fai093-chairs" >
+<path d="M59 170Q9 169 12 197l13 69q3 16 24 18l66 1 13-16-33-31Z" fill="#1C1F21" stroke="#F2F3F1" stroke-width="2" />
+<path d="m34 282-17 71q-3 8 2 10 3 0 5-7l23-71ZM78 284l-5 94q-1 6 3 7 4 0 4-7l9-94ZM132 283l19 89q2 6 5 4 2-1 0-6l-12-87Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="1.8" />
+<path d="M384 170q57-3 55 28l-15 71q-4 16-20 17l-102 0-8-18 71-32Z" fill="#1C1F21" stroke="#F2F3F1" stroke-width="2" />
+<path d="m406 283 26 76q2 6 5 4 3-1 0-7l-21-75ZM365 284l7 94q1 7 5 6 3-1 2-7l-5-94ZM303 284l-17 81q-1 7 3 8 3 0 4-7l21-82Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="1.8" />
+</g><g id="fai093-woman-legs-seated" >
+<path d="M82 231q39 2 50 18 11 35 5 94l-26 0-2-79-20-6Z" fill="#F2F3F1" stroke="#F2F3F1" stroke-width="2" />
+<path d="M38 249q45 20 82 3 11-7 18 10l43 59-24 12-28-32-27-29q-34 2-66-8Z" fill="#F2F3F1" stroke="#F2F3F1" stroke-width="2" />
+<path d="m114 343 20 1q-2 16 15 28l10 7q2 5-7 6-25 4-36-18-6-10-2-23Z" fill="#EDB182" stroke="#F2F3F1" stroke-width="1.6" />
+<path d="m163 348 17-6q14 26 30 30l10 4q3 6-11 7-19 1-35-16Z" fill="#EDB182" stroke="#F2F3F1" stroke-width="1.6" transform="translate(0 -22)"/>
+<path d="m113 356q8 16 28 20 9 1 17 8 4 6-12 5-14 0-24-10l-2 5-7-3q-7-15 0-25Z" fill="#F2F3F1" stroke="#F2F3F1" stroke-width="1.6" />
+<path d="m158 357q16 18 35 19 17 1 25 5-4 10-20 7l-28-8-5 4-7-3q-3-14 0-24Z" fill="#F2F3F1" stroke="#F2F3F1" stroke-width="1.6" transform="translate(0 -22)"/>
+</g><g id="fai093-man-legs-seated" >
+<path d="M353 234q-71 1-79 20-17 15-4 44l25 54 26-7-20-62 17-1 2 77 34 0q1-41-9-82l44-5Z" fill="#F2F3F1" stroke="#F2F3F1" stroke-width="2" />
+<path d="m293 350 29-6 6 17q7 13-7 15l-42 1q-15-3-9-8l20-9Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="1.7" />
+<path d="m324 356 27-1 9 19q6 15-2 16l-14 4v-6q-17 11-38 9-12-4-2-11l22-15Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="1.7" />
+<path d="m291 362 11 5m-5-9 10 5M325 376l10 4m-4-8 9 4" fill="none" stroke="#F2F3F1" stroke-width="1.3" />
+</g><g id="fai093-interview-table" >
+<ellipse cx="223" cy="376" rx="42" ry="10" fill="#686A6A" stroke="#F2F3F1" stroke-width="2" />
+<rect x="217" y="242" width="12" height="132" rx="4" fill="#686A6A" stroke="#F2F3F1" stroke-width="2" />
+<ellipse cx="223" cy="237" rx="138" ry="20" fill="#686A6A" stroke="#F2F3F1" stroke-width="2" />
+<ellipse cx="223" cy="226" rx="138" ry="20" fill="#141617" stroke="#F2F3F1" stroke-width="2" />
+</g><g id="fai093-woman-hair" >
+<path d="M83 69q12-19 30-11 19 3 19 22l-10 43-39 8q-28 27-35 10-13-14 1-30-1-14 14-22 3-15 20-20Z" fill="#F2F3F1" stroke="#F2F3F1" stroke-width="1.8" />
+</g><g id="fai093-woman-neck-and-face" >
+<path d="m98 107-2 20q9 19 23 3l1-20Z" fill="#EDB182" stroke="#F2F3F1" stroke-width="1.5" />
+<path d="M97 92q-6-6-5 3 2 9 10 9 4 13 17 14 16 0 13-14l6-4-6-9q4-19-7-22-8 19-23 25Z" fill="#EDB182" stroke="#F2F3F1" stroke-width="1.6" />
+<path d="M122 86q4-2 8 0M127 107q5 3 8 0" fill="none" stroke="#F2F3F1" stroke-width="1" />
+<circle cx="127" cy="92" r="1.7" fill="#F2F3F1" stroke="none" stroke-width="3" />
+</g><g id="fai093-woman-blazer" >
+<path d="M92 126q-28-1-34 17l-6 45-20 63q22 12 31-2l18-24 52-24 14-33-9-29q-3-12-19-13l-4 18-13 1Z" fill="#FFB020" stroke="#F2F3F1" stroke-width="1.8" />
+<path d="m100 144 11 2 11-5 4 59-22 0Z" fill="#141617" stroke="#F2F3F1" stroke-width="1.3" />
+<path d="m87 128v13l7 3-7 6 18 48M120 129l10 10-5 5 8 4-7 46M65 138q14 6 16 28l4 35M55 213l15 3" fill="none" stroke="#F2F3F1" stroke-width="1.5" />
+<path d="m67 190q-10 4-5 16 6 17 52 15l5-17-31-6Z" fill="#FFB020" stroke="#F2F3F1" stroke-width="1.8" />
+<path d="m143 172 20-10 20 19-30 19-16-18Z" fill="#FFB020" stroke="#F2F3F1" stroke-width="1.8" />
+</g><g id="fai093-woman-hands" >
+<path d="m118 205 23-3q5-6 12-5 9 0 17 6 4 5 1 6l-12-7 11 9q4 5-1 4l-12-8 10 9q0 3-4 1l-12-4q-9 5-18 2l-19 2Z" fill="#EDB182" stroke="#F2F3F1" stroke-width="1.5" />
+<path d="m183 180-3-12q8-5 14-13l14-8q7-4 5 2l-7 7q8 2 17-4l6 1q5-3 6 1 0 5-11 13-11 7-24 8l-8 9Z" fill="#EDB182" stroke="#F2F3F1" stroke-width="1.5" />
+<path d="m214 163 14-6m-13 10 13-7" fill="none" stroke="#F2F3F1" stroke-width="1" />
+</g><g id="fai093-man-face" >
+<path d="m308 65-4 25-6 8 6 4q-2 13 3 17 10 5 23-6l6 13 22-19-1-18-13-33Z" fill="#EDB182" stroke="#F2F3F1" stroke-width="1.6" />
+<path d="M306 67q-8-5-2-13 3 4 13-2 8-6 21-1 18-2 23 11 11 3 7 16l-12 27q-10 1-12-13-7-7-9-2l-4-11q-5-10 1-13Z" fill="#F2F3F1" stroke="#F2F3F1" stroke-width="1.8" />
+<path d="M309 82q4-1 8 2M304 106q6 3 12-1" fill="none" stroke="#F2F3F1" stroke-width="1" />
+<circle cx="313" cy="89" r="1.7" fill="#F2F3F1" stroke="none" stroke-width="3" />
+</g><g id="fai093-man-jacket-seated" >
+<path d="m331 118-22 9q-10 8-14 21l-16 32-9 11 29 13 12-17 8 27-15 35q-13 13-3 27l42-2 27-20q13 25 25 23l29-12-14-77q-1-37-15-47l-26-15-3 12-20 17Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="2" />
+<path d="m329 128 9 12 15-21 5 15-19 70-15-2Z" fill="#141617" stroke="#F2F3F1" stroke-width="1.5" />
+<path d="m323 124-6 9 5 6-7 4 10 49M361 115l4 17-8 4 8 5-17 52M387 130q-19 0-23 32M365 164l-7 29M304 187q-3-7-13-7M384 219l13-3" fill="none" stroke="#F2F3F1" stroke-width="1.4" />
+<path d="m357 194-50 0-2 22 54 4q17 1 26-27l-8-6Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="2" />
+<path d="m300 192h7l-1 23-7-1Z" fill="#141617" stroke="#F2F3F1" stroke-width="1.6" />
+</g><g id="fai093-man-hands" >
+<path d="M300 193q-13-8-22-9-6-1-6 3l9 5-11-3q-7 0-6 4l13 5-13-2q-6 1-4 6l15 4-12-1q-5 3 1 6l11 2-8 1q-5 4 3 6l28-6Z" fill="#EDB182" stroke="#F2F3F1" stroke-width="1.5" />
+<path d="m269 191 6 4m-9 5 9 2m-11 6 10 1" fill="none" stroke="#F2F3F1" stroke-width="1" />
+</g><g id="fai093-candidate-resume-on-table" >
+<path d="m184 213 53-3 27 19-58 3Z" fill="#141617" stroke="#F2F3F1" stroke-width="1.1" />
+<ellipse cx="201" cy="218" rx="6" ry="2" fill="#686A6A" stroke="none" stroke-width="3" />
+<path d="M215 217h18" fill="none" stroke="#FFB020" stroke-width="1.5" />
+<path d="m205 222 37-1m-35 4 39-1m-36 4 40-1" fill="none" stroke="#686A6A" stroke-width="1" />
+</g>
+</g>
+</svg>

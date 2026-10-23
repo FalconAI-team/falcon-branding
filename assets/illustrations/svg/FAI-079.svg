@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(2.7866666667)">
+<g id="fai079-payment-card" >
+<rect x="50" y="125" width="253" height="162" rx="17" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="6" />
+<rect x="50" y="155" width="253" height="32" rx="0" fill="var(--illustration-fill, #8195A5)" stroke="var(--illustration-ink, currentColor)" stroke-width="4" />
+<rect x="74" y="213" width="54" height="42" rx="5" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="4" />
+<path d="M94 214v40M110 228v26M75 228h19M75 242h19M110 240h18" fill="none" stroke="var(--illustration-ink, currentColor)" stroke-width="3" />
+</g><g id="fai079-broken-transfer" >
+<path d="M225 221Q254 175 307 167L316 180 310 188 317 207Q283 209 265 239Z" fill="var(--illustration-fill, #8195A5)" stroke="var(--illustration-ink, currentColor)" stroke-width="5" />
+<path d="M321 166h24v-23l43 44-43 40v-22h-12l-9-17 8-12Z" fill="var(--illustration-fill, #8195A5)" stroke="var(--illustration-ink, currentColor)" stroke-width="5" />
+</g><g id="fai079-declined" >
+<circle cx="244" cy="276" r="55" fill="var(--illustration-muted, #E3E9EE)" stroke="var(--illustration-ink, currentColor)" stroke-width="6" />
+<path d="m222 254 44 44M266 254l-44 44" fill="none" stroke="var(--illustration-ink, currentColor)" stroke-width="12" />
+</g>
+</g>
+</svg>

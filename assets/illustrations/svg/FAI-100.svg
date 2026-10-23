@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(2.7866666667)">
+<g id="fai100-package" >
+<path d="M36 192 101 162 195 181 135 223Z" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="4" />
+<path d="M36 192 135 223v94l-99-30Z" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="4" />
+<path d="M135 223 195 181v92l-60 44Z" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="4" />
+<path d="m70 203 63-34 20 4-63 37v25l-20-5Z" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="2" />
+</g><g id="fai100-listing" >
+<rect x="286" y="136" width="132" height="191" rx="12" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="4" />
+<rect x="298" y="150" width="108" height="91" rx="5" fill="var(--illustration-muted, #E3E9EE)" stroke="none" stroke-width="3" />
+<path d="M304 255h85" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="11" />
+<path d="M303 272h61" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="5" />
+<path d="M303 282h46" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="5" />
+<rect x="299" y="292" width="106" height="20" rx="10" fill="var(--illustration-accent, #D2A852)" stroke="none" stroke-width="3" />
+</g><g id="fai100-listing-package" >
+<path d="m318 180 29-11 39 10-27 17Z" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="3" />
+<path d="m318 180 41 16v41l-41-15Z" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="3" />
+<path d="m359 196 27-17v42l-27 16Z" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="3" />
+<path d="m335 186 29-12 7 2-28 13v12l-8-3Z" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.5" />
+</g><g id="fai100-exchange-arrows" >
+<path d="M215 213q9-15 22-14h18v-10l20 17-20 18v-10h-18q-10-1-15 7-7 5-7-8Z" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="3.5" />
+<path d="M267 244q-8 15-22 14h-18v10l-20-17 20-18v10h18q10 1 15-7 7-5 7 8Z" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="3.5" />
+</g>
+</g>
+</svg>

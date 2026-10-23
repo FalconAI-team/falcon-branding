@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1448 1086" fill="none" style="color:#0E3B5D" stroke="#14171A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <g id="fai005-route-map">
+    <path d="M340 497L380 265Q382 254 396 252L580 220L772 138Q781 134 789 138L1018 224L1182 247Q1191 249 1194 263L1254 506L1009 601L811 534L535 479Z" fill="#EDEFEC" stroke-width="13"/>
+    <path d="M394 272L580 238L606 327L535 324L477 418L379 397Z M596 235L767 164L777 254L618 329Z M817 187L991 250L936 274Z M1020 253L1167 273L1194 380L1075 304L1025 293Z M385 419L532 479L372 492Z M632 445L794 376L807 521L643 492Z M811 378L870 398L933 458L822 515Z M1027 318L1068 327L1200 400L1211 445L1097 450L1077 393Z" fill="#EDEFEC" stroke="none"/>
+    <g id="fai005-map-streets" stroke="#FFFFFF" stroke-width="12">
+      <path d="M390 322H476L520 248M585 230L613 332L630 491M534 479L474 427L377 402M534 329L613 332L782 244L936 278L1009 248M771 145L799 365L811 529M630 445L799 365L870 392L1006 519M810 529L944 460M1009 233L1026 299L1068 310L1202 392M1026 299L1065 516M1091 455L1217 450"/>
+    </g>
+    <path d="M520 431C634 393 673 363 737 303M830 298C928 331 947 392 1045 441" stroke-dasharray="19 21" stroke-width="12"/>
+    <g id="fai005-map-pins" fill="#FFFFFF">
+      <ellipse cx="491" cy="431" rx="33" ry="19"/><ellipse cx="782" cy="293" rx="31" ry="17"/><ellipse cx="1073" cy="448" rx="32" ry="19"/>
+      <g fill="#FFB020">
+        <path d="M490 429C477 411 451 381 451 359C451 337 469 320 491 320C514 320 532 337 532 359C532 381 506 414 490 429Z"/>
+        <path d="M783 291C770 272 741 242 741 219C741 197 759 180 782 180C805 180 823 197 823 219C823 241 797 273 783 291Z"/>
+        <path d="M1073 445C1058 426 1030 396 1030 373C1030 351 1049 334 1071 334C1095 334 1113 351 1113 373C1113 395 1088 426 1073 445Z"/>
+      </g>
+      <g stroke="none"><circle cx="491" cy="359" r="16"/><circle cx="782" cy="219" r="16"/><circle cx="1073" cy="374" r="16"/></g>
+    </g>
+  </g>
+  <g id="fai005-truck">
+    <g id="fai005-chassis" fill="#14171A">
+      <path d="M350 796H972V880H932L919 899H497L473 919H160V868H350Z"/>
+      <ellipse cx="206" cy="887" rx="52" ry="49"/><ellipse cx="615" cy="878" rx="58" ry="49"/><ellipse cx="693" cy="877" rx="36" ry="45"/>
+      <path d="M969 834H935V860H972"/>
+    </g>
+    <g id="fai005-cargo-box">
+      <path d="M278 505L531 478L972 573V804L531 799L277 775Z" fill="#FFFFFF" stroke-width="12"/>
+      <path d="M531 479L972 573V804L531 795Z" fill="#A6A7A8" stroke-width="9"/>
+      <path d="M541 492V778L962 791" stroke="#EDEFEC" stroke-width="7"/>
+      <path d="M534 775L963 795" stroke-width="5"/>
+    </g>
+    <g id="fai005-cabin" fill="#FFFFFF">
+      <path d="M111 704C124 666 139 606 170 575C213 532 318 520 401 517L448 519C468 521 475 530 478 550L493 775L508 831L514 891H396L381 902H117C100 902 95 892 95 877V768C95 744 100 722 111 704Z" stroke-width="12"/>
+      <path d="M111 705L306 710C323 710 338 704 342 684L357 585Q358 579 347 580L161 595Z" fill="#A6A7A8" stroke-width="14"/>
+      <path d="M164 602L124 696H137L177 601Z M251 595L190 698L321 691Q334 690 336 677L348 594Z" fill="#A6A7A8" stroke="none"/>
+      <path d="M347 798L357 668L368 600Q371 582 391 583L464 585M451 586L454 773M351 558Q373 531 410 518" stroke-width="5"/>
+      <path d="M379 601L375 692L442 688L441 607Q440 600 431 600Z" fill="#A6A7A8" stroke-width="6"/>
+      <path d="M393 604V684" stroke-width="4"/>
+      <path d="M134 758L291 754L282 790Q281 799 268 800H149Q144 800 142 792Z" fill="#14171A" stroke-width="4"/>
+      <path d="M148 778L279 775" stroke="#A6A7A8" stroke-width="7"/>
+      <path d="M110 719L124 799M317 724L295 800L346 797M112 812H281L293 804H330Q350 804 350 824V879Q350 890 340 890H119Q101 890 101 878V829Q101 813 112 812Z" stroke-width="7"/>
+      <path d="M140 832H281L267 871H152Z" fill="#14171A" stroke-width="5"/>
+      <path d="M151 852H268" stroke="#A6A7A8" stroke-width="6"/>
+      <path d="M101 831H109L121 875H102M300 875L311 828Q312 823 332 822V876Z" fill="#FFB020" stroke-width="5"/>
+      <path d="M352 890H393L410 815Q416 791 438 787H468Q491 792 500 821L511 891" stroke-width="13"/>
+      <path d="M363 831H383" stroke="#A6A7A8" stroke-width="20"/>
+      <path d="M429 752H444" stroke-width="13"/>
+    </g>
+    <g id="fai005-mirrors" fill="#14171A">
+      <path d="M127 616L112 617L111 640M484 560Q497 559 498 577V767"/>
+      <rect x="91" y="632" width="35" height="69" rx="9"/><rect x="375" y="623" width="35" height="74" rx="8"/><path d="M382 696V717H364" stroke-width="12"/>
+    </g>
+    <g id="fai005-wheels" fill="#A6A7A8" stroke-width="12">
+      <ellipse cx="456" cy="875" rx="51" ry="69"/><ellipse cx="795" cy="872" rx="40" ry="61"/><ellipse cx="867" cy="872" rx="35" ry="58"/>
+      <g fill="#EDEFEC" stroke-width="5"><ellipse cx="456" cy="875" rx="25" ry="39"/><ellipse cx="795" cy="872" rx="19" ry="33"/><ellipse cx="867" cy="872" rx="17" ry="32"/></g>
+      <g fill="#14171A" stroke="none"><ellipse cx="456" cy="875" rx="11" ry="19"/><ellipse cx="795" cy="872" rx="8" ry="17"/><ellipse cx="867" cy="872" rx="7" ry="16"/></g>
+    </g>
+    <path d="M534 841H715M534 878H715" stroke="#A6A7A8" stroke-width="13"/><path d="M558 807V830M746 860Q752 826 768 812M879 813Q900 828 906 857" stroke="#A6A7A8" stroke-width="11"/>
+  </g>
+  <g id="fai005-delivery-checklist" transform="rotate(7 1162 741)">
+    <rect x="980" y="520" width="353" height="452" rx="23" fill="#FFFFFF" stroke-width="12"/>
+    <path d="M1115 518V499Q1115 485 1129 485H1178Q1192 485 1192 499V518" fill="#A6A7A8"/>
+    <rect x="1068" y="511" width="180" height="34" rx="5" fill="#14171A"/>
+    <rect x="1014" y="565" width="55" height="32" rx="2" fill="#A6A7A8" stroke="none"/>
+    <g id="fai005-parcel" stroke-width="7">
+      <path d="M1084 607L1145 567L1212 588L1215 651L1145 690L1087 669Z" fill="#FFB020"/>
+      <path d="M1084 607L1142 629L1212 588M1142 629L1145 690"/>
+      <path d="M1114 587L1182 609L1184 633" stroke="#FFFFFF" stroke-width="12"/>
+    </g>
+    <g stroke="#A6A7A8" stroke-width="14"><path d="M1238 574H1297M1238 598H1297M1058 704H1290M1058 734H1237M1058 764H1196"/></g>
+    <g fill="#A6A7A8" stroke="none"><circle cx="1027" cy="704" r="12"/><circle cx="1027" cy="734" r="12"/><circle cx="1027" cy="764" r="12"/></g>
+    <g id="fai005-table" stroke="#A6A7A8" stroke-width="5">
+      <rect x="1008" y="797" width="286" height="130" rx="3"/><path d="M1008 825H1294M1008 877H1294M1165 797V927M1233 797V927"/>
+      <path d="M1030 853H1128M1030 901H1110" stroke-width="14"/>
+    </g>
+    <g fill="#FFB020" stroke="none"><circle cx="1265" cy="853" r="13"/><circle cx="1265" cy="901" r="13"/></g>
+  </g>
+</svg>

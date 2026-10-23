@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(2.7866666667)">
+<g id="fai073-empty-card-holder" >
+<path d="M51 176 231 170Q244 170 246 184L248 300Q248 313 234 314L64 321Q47 322 47 305L43 191Q43 177 51 176Z" fill="#FFFFFF" stroke="#14171A" stroke-width="3" />
+<path d="M44 203 92 202Q101 201 107 210Q112 217 122 217L169 216Q181 216 185 206Q188 199 197 199L245 196 248 300Q248 313 234 314L64 321Q47 322 47 305Z" fill="#A6A7A8" stroke="#14171A" stroke-width="3" />
+<path d="M49 198 49 190Q49 181 60 181L230 175Q240 175 240 186" fill="none" stroke="#14171A" stroke-width="1.3" stroke-dasharray="4 4"/>
+<path d="M50 208 93 207Q99 207 103 214Q110 222 120 222L173 221Q184 221 190 209Q194 205 201 205L241 203 242 298Q242 307 230 308L65 315Q53 315 53 303Z" fill="none" stroke="#14171A" stroke-width="1.3" stroke-dasharray="4 4"/>
+</g><g id="fai073-mobile-wallet" transform="rotate(9 324 228)">
+<rect x="254" y="105" width="139" height="247" rx="22" fill="#A6A7A8" stroke="#14171A" stroke-width="4" />
+<rect x="262" y="112" width="123" height="232" rx="17" fill="#FFFFFF" stroke="#14171A" stroke-width="2.5" />
+<path d="M289 113h72v6q0 6-7 6h-57q-8 0-8-6Z" fill="#14171A" stroke="none" stroke-width="3" />
+<rect x="306" y="116" width="20" height="3" rx="1" fill="#A6A7A8" stroke="none" stroke-width="3" />
+<circle cx="336" cy="118" r="2" fill="#A6A7A8" stroke="none" stroke-width="3" />
+<rect x="273" y="162" width="112" height="72" rx="7" fill="#A6A7A8" stroke="#14171A" stroke-width="2" />
+<rect x="283" y="213" width="24" height="10" rx="3" fill="#FFFFFF" stroke="none" stroke-width="3" />
+<circle cx="367" cy="216" r="10" fill="#FFB020" stroke="none" stroke-width="3" />
+<circle cx="324" cy="272" r="19" fill="#EDEFEC" stroke="#A6A7A8" stroke-width="2" />
+<path d="m315 272 6 7 12-13" fill="none" stroke="#14171A" stroke-width="3" />
+</g>
+</g>
+</svg>

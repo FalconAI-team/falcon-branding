@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke="#14171A" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="fai016-title">
+<title id="fai016-title">Всё готово к работе</title>
+<g transform="scale(3.2153846154) translate(-5 0)">
+<path d="M46 147 46 122Q44 108 58 108H115Q125 108 130 118L144 141Z" fill="#A6A7A8" stroke-width="4"/>
+<rect x="62" y="128" width="147" height="118" rx="6" fill="#FFFFFF" stroke-width="4"/>
+<path d="M42 276V154Q39 143 52 144H178Q183 144 187 155H224Q237 155 236 169L229 276Z" fill="#A6A7A8" stroke-width="4"/>
+<path d="M220 79Q220 68 231 68H335L374 107V251Q374 262 363 262H230Q220 262 220 251Z" fill="#FFFFFF" stroke-width="4"/>
+<path d="M335 68V98Q335 107 344 107H374" fill="#EDEFEC" stroke-width="4"/>
+<circle cx="253" cy="103" r="12" fill="#A6A7A8" stroke-width="0"/>
+<path d="M278 102H320" fill="none" stroke-width="8" stroke="#A6A7A8"/>
+<path d="M246 130H348" fill="none" stroke-width="7" stroke="#A6A7A8"/>
+<path d="M246 146H329" fill="none" stroke-width="7" stroke="#A6A7A8"/>
+<path d="M246 162H333" fill="none" stroke-width="7" stroke="#A6A7A8"/>
+<path d="M246 178H336" fill="none" stroke-width="7" stroke="#A6A7A8"/>
+<g id="fai016-list"><path d="M42 193 190 184Q200 183 201 196L208 286Q209 296 198 297L54 306Q45 307 45 296L41 205Q40 196 42 193Z" fill="#FFFFFF" stroke-width="4"/><circle cx="71" cy="208" r="13" fill="#A6A7A8" stroke-width="0"/><circle cx="72" cy="244" r="13" fill="#A6A7A8" stroke-width="0"/><path d="M64 208 69 213 78 204M65 244 70 249 79 239" fill="none" stroke-width="3"/><path d="M97 207H170" fill="none" stroke-width="9" stroke="#A6A7A8"/><path d="M97 241H174" fill="none" stroke-width="9" stroke="#A6A7A8"/><path d="M97 275H167" fill="none" stroke-width="9" stroke="#A6A7A8"/><circle cx="74" cy="278" r="13" fill="#A6A7A8" stroke-width="0"/><path d="M67 278 72 283 81 273" fill="none" stroke-width="3"/></g>
+<circle cx="293" cy="255" r="60" fill="#FFB020" stroke-width="4"/>
+<path d="M263 257 283 276 330 229Q339 220 347 229Q352 235 344 243L291 296Q284 302 278 297L257 276Q249 267 255 260Q259 255 263 257Z" fill="#FFFFFF" stroke-width="4" transform="translate(293 255) scale(.8) translate(-293 -255)"/>
+</g></svg>

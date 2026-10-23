@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(2.7866666667)">
+<g id="fai090-vacancy-card" transform="rotate(-4 150 214)">
+<rect x="61" y="91" width="183" height="246" rx="12" fill="#FFFFFF" stroke="#14171A" stroke-width="4" />
+<circle cx="102" cy="136" r="22" fill="#A6A7A8" stroke="none" stroke-width="3" />
+<path d="M139 127h78" fill="none" stroke="#A6A7A8" stroke-width="12" />
+<path d="M139 149h59" fill="none" stroke="#EDEFEC" stroke-width="10" />
+<rect x="77" y="175" width="150" height="67" rx="5" fill="#EDEFEC" stroke="none" stroke-width="3" />
+<path d="M79 261h107" fill="none" stroke="#EDEFEC" stroke-width="9" />
+<path d="M79 279h107" fill="none" stroke="#EDEFEC" stroke-width="9" />
+<path d="M79 297h101" fill="none" stroke="#EDEFEC" stroke-width="9" />
+</g><g id="fai090-vacancy-folder" >
+<path d="m211 235 22-20 17-2 4-16q1-8 9-8l31-2q8 0 11 7l8 16 102 11q8 1 6 10l-15 90Z" fill="#FFFFFF" stroke="#14171A" stroke-width="4" />
+<path d="m211 235 20-21 24 0 5-20 35-3 12 21 104 13-18 110Z" fill="#A6A7A8" stroke="#14171A" stroke-width="3" />
+<path d="M213 220q-14-2-11 12l16 88q1 9 10 10l157 17q12 1 10-11l-13-92q-1-8-8-9Z" fill="#A6A7A8" stroke="#14171A" stroke-width="4" />
+</g>
+</g>
+</svg>

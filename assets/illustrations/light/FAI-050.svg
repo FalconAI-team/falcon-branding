@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" style="color:#0E3B5D" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(1.254)">
+<g id="fai050-envelope-back"><path d="M142 396L465 145Q500 119 535 145L858 396Q879 413 879 442V794Q879 838 836 838H164Q133 838 133 805V437Q132 408 142 396Z" fill="#A6A7A8" stroke="#14171A" stroke-width="12"/></g>
+<g id="fai050-confirmation-letter"><rect x="264" y="237" width="472" height="469" rx="38" fill="#FFFFFF" stroke="#14171A" stroke-width="13"/><circle cx="500" cy="437" r="115" fill="#FFB020" stroke="#14171A" stroke-width="10"/><path d="M453 440L480 466L550 399" fill="none" stroke="#14171A" stroke-width="26"/><path d="M453 440L480 466L550 399" fill="none" stroke="#FFFFFF" stroke-width="13"/></g>
+<g id="fai050-envelope-front"><path d="M134 424L428 627L470 595Q500 572 532 595L575 627L879 424V794Q879 838 836 838H165Q133 838 134 803Z" fill="#FFFFFF" stroke="#14171A" stroke-width="9"/><path d="M144 823L471 595Q500 576 532 595L864 823Q851 838 828 838H167Q149 838 144 823Z" fill="#EDEFEC" stroke="#14171A" stroke-width="9"/></g>
+</g>
+</svg>

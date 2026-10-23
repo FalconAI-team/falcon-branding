@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke="#F2F3F1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(-26.058 -33.338) scale(1.360285 1.361323)">
+<g id="fai115-source-sketch" >
+<rect x="64" y="365" width="281" height="244" rx="0" fill="#141617" stroke-width="6"/><circle cx="138" cy="441" r="30" fill="#141617" stroke-width="5"/><path d="M80 541l93 -50 73 53m-41 -32l60 -61 63 80q-75 2 -151 39M84 567q111 -8 178 18q27 7 65 6" fill="none" stroke-width="5" />
+</g><g id="fai115-conversion" >
+<path d="M362 475h43v-20l31 32 -31 32v-22h-43Z" fill="#FFB020" stroke-width="5" />
+</g><g id="fai115-finished-frame" >
+<rect x="451" y="286" width="454" height="393" rx="0" fill="#FFB020" stroke-width="6"/><rect x="481" y="318" width="394" height="330" rx="0" fill="#1C1F21" stroke-width="5"/><path d="M451 286l30 32m394 0l30 -32M451 679l30 -31m394 0l30 31" fill="none" stroke-width="4" /><rect x="506" y="343" width="343" height="278" rx="0" fill="#1C1F21" stroke-width="3"/><circle cx="574.6" cy="398.6" r="24.01" fill="#FFB020" stroke="none"/><path d="M506 495.9L574.6 456.98 619.19 476.44 694.65 426.4 756.39 476.44 794.12 429.18 849 490.34000000000003V621H506Z" fill="#686A6A" stroke="none" /><path d="M506 520.9200000000001Q540.3 482.0 584.89 515.36Q677.5 582.0799999999999 849 559.84V621H506Z" fill="#F2F3F1" stroke="none" /><path d="M506 565.4H849v55.6H506Z" fill="#686A6A" stroke="none" /><path d="M547.16 582.0799999999999h75.46m-34.300000000000004 16.68h123.47999999999999" fill="none" stroke="#1C1F21" stroke-width="3" /><path d="M540 479l21 -11 18 7 34 -32 19 18 17 -2 -35 -26 -26 22 -17 6Z" fill="#141617" stroke="none" /><path d="M687 475l40 -33 19 11 12 -25 18 25 28 11 -43 -45 -31 32Z" fill="#141617" stroke="none" /><path d="M506 527q13 -24 26 0q8 -19 18 0q9 -22 21 1q12 -18 23 0q13 -14 24 0h77q16 -22 28 0q10 -14 19 -1q15 -26 28 -3q13 -27 26 -7q14 -22 28 0l25 -3v28H506Z" fill="#F2F3F1" stroke="none" /><path d="M644 616q16 -26 28 -3q12 -31 28 -6q12 -29 27 -9q12 -29 28 -10q13 -30 26 -9q15 -29 26 -9q15 -29 27 -12q13 -18 15 -10v73H644Z" fill="#F2F3F1" stroke="none" />
+</g>
+</g>
+</svg>

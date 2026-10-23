@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke="var(--illustration-ink, currentColor)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="fai022-title">
+<title id="fai022-title">Нет аналитики</title>
+<g transform="scale(3.2153846154) translate(-5 0)">
+<path d="M88 49H273L310 85V339Q310 346 303 346H88Q81 346 81 339V56Q81 49 88 49Z" fill="var(--illustration-paper, #F8F8F5)" stroke-width="4.5"/>
+<path d="M273 49V80Q273 85 278 85H310" fill="var(--illustration-muted, #E3E9EE)" stroke-width="4"/>
+<rect x="97" y="71" width="168" height="78" rx="3" fill="var(--illustration-paper, #F8F8F5)" stroke-width="2.5"/>
+<path d="M108 79 108 140" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M131 79 131 140" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M154 79 154 140" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M177 79 177 140" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M200 79 200 140" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M223 79 223 140" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M246 79 246 140" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M108 90H257" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M108 107H257" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M108 124H257" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M108 81V141H255" fill="none" stroke-width="2.4"/>
+<rect x="97" y="163" width="168" height="78" rx="3" fill="var(--illustration-paper, #F8F8F5)" stroke-width="2.5"/>
+<path d="M108 171 108 232" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M131 171 131 232" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M154 171 154 232" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M177 171 177 232" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M200 171 200 232" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M223 171 223 232" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M246 171 246 232" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M108 182H257" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M108 199H257" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M108 216H257" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M108 173V233H255" fill="none" stroke-width="2.4"/>
+<rect x="97" y="254" width="168" height="78" rx="3" fill="var(--illustration-paper, #F8F8F5)" stroke-width="2.5"/>
+<path d="M108 262 108 323" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M131 262 131 323" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M154 262 154 323" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M177 262 177 323" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M200 262 200 323" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M223 262 223 323" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M246 262 246 323" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M108 273H257" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M108 290H257" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M108 307H257" fill="none" stroke-width="0.55" stroke="var(--illustration-muted, #E3E9EE)"/>
+<path d="M108 264V324H255" fill="none" stroke-width="2.4"/>
+<circle cx="295" cy="310" r="37" fill="var(--illustration-muted, #E3E9EE)" stroke-width="4.5"/>
+<circle cx="295" cy="310" r="5" fill="var(--illustration-ink, currentColor)" stroke-width="0"/>
+<path d="M295 287V310L312 323" fill="none" stroke-width="4.5"/>
+</g></svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke="var(--illustration-ink, currentColor)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="fai017-title">
+<title id="fai017-title">Нет результатов поиска</title>
+<g transform="scale(3.2153846154) translate(-5 0)">
+<g id="fai017-handle" transform="translate(0 -30)"><path d="M145 277 164 295 96 376Q80 396 65 384Q54 374 65 357Z" fill="var(--illustration-fill, #8195A5)" stroke-width="4"/><path d="M130 284 144 270 163 285 150 299Z" fill="var(--illustration-accent, #D2A852)" stroke-width="4"/><path d="M68 365 130 294" fill="none" stroke-width="4" stroke="var(--illustration-muted, #E3E9EE)"/></g>
+<circle cx="229" cy="168" r="110" fill="var(--illustration-fill, #8195A5)" stroke-width="5"/>
+<circle cx="229" cy="168" r="98" fill="var(--illustration-paper, #F8F8F5)" stroke-width="4"/>
+<path d="M149 145Q172 104 213 100" fill="none" stroke-width="6" stroke="var(--illustration-muted, #E3E9EE)"/>
+<rect x="153" y="113" width="155" height="86" rx="6" fill="var(--illustration-paper, #F8F8F5)" stroke-width="3"/>
+<circle cx="185" cy="156" r="20" fill="var(--illustration-fill, #8195A5)" stroke-width="0"/>
+<path d="M220 151H292" fill="none" stroke-width="10" stroke="var(--illustration-fill, #8195A5)"/>
+<path d="M220 171H269" fill="none" stroke-width="10" stroke="var(--illustration-fill, #8195A5)"/>
+</g></svg>

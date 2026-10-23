@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(2.7866666667)">
+<g id="fai081-truck-body" >
+<path d="M49 180Q71 151 118 141L119 230H44Z" fill="#F2F3F1" stroke="#F2F3F1" stroke-width="2.5" />
+<path d="M26 224 45 189Q50 179 61 178H107Q117 178 117 191V261H90Q64 262 60 295H28Q20 294 20 286V252Q20 239 26 224Z" fill="#F2F3F1" stroke="#F2F3F1" stroke-width="2" />
+<rect x="119" y="132" width="277" height="133" rx="3" fill="#141617" stroke="#F2F3F1" stroke-width="4" />
+<rect x="127" y="139" width="265" height="117" rx="0" fill="#141617" stroke="#F2F3F1" stroke-width="1" />
+<rect x="126" y="133" width="268" height="6" rx="0" fill="#1C1F21" stroke="#F2F3F1" stroke-width="1" />
+<rect x="129" y="135" width="8" height="3" rx="0" fill="#FFB020" stroke="none" stroke-width="3" />
+<rect x="381" y="135" width="8" height="3" rx="0" fill="#FFB020" stroke="none" stroke-width="3" />
+<path d="M40 229 49 195Q52 189 57 189H97V219Q97 222 91 222L59 232Z" fill="#1C1F21" stroke="#F2F3F1" stroke-width="2" />
+<path d="m27 230 19-42 7 2-15 36q-1 3-11 4Z" fill="#1C1F21" stroke="#F2F3F1" stroke-width="1" />
+<path d="M59 190v44" fill="none" stroke="#F2F3F1" stroke-width="2" />
+<rect x="55" y="201" width="9" height="22" rx="3" fill="#F2F3F1" stroke="none" stroke-width="3" />
+<rect x="88" y="238" width="10" height="5" rx="2" fill="#686A6A" stroke="none" stroke-width="3" />
+<rect x="107" y="251" width="7" height="3" rx="0" fill="#FFB020" stroke="none" stroke-width="3" />
+<path d="M26 258v-4q0-6 9-7v24H25Z" fill="#141617" stroke="#F2F3F1" stroke-width="2" />
+<rect x="22" y="276" width="10" height="10" rx="2" fill="#141617" stroke="#F2F3F1" stroke-width="1" />
+<rect x="44" y="271" width="8" height="4" rx="0" fill="#FFB020" stroke="none" stroke-width="3" />
+<path d="M42 285h18q4-30 31-30h25v5H91q-21 0-26 30H42Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="1" />
+<rect x="119" y="267" width="271" height="16" rx="0" fill="#F2F3F1" stroke="#F2F3F1" stroke-width="1" />
+<rect x="146" y="274" width="41" height="26" rx="3" fill="#F2F3F1" stroke="#F2F3F1" stroke-width="1" />
+<rect x="145" y="276" width="123" height="6" rx="0" fill="#1C1F21" stroke="#F2F3F1" stroke-width="1" />
+<path d="M149 269v25M258 269v25" fill="none" stroke="#141617" stroke-width="4" />
+<rect x="221" y="269" width="8" height="4" rx="0" fill="#FFB020" stroke="none" stroke-width="3" />
+<path d="M274 292q3-33 30-33 28 0 31 33h-5q-3-28-26-28-23 0-25 28Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="1" />
+<rect x="394" y="244" width="5" height="14" rx="1" fill="#FFB020" stroke="#F2F3F1" stroke-width="1" />
+</g><g id="fai081-wheel-0" >
+<circle cx="91" cy="296" r="25" fill="#F2F3F1" stroke="#F2F3F1" stroke-width="3" />
+<circle cx="91" cy="296" r="13" fill="#1C1F21" stroke="#686A6A" stroke-width="2" />
+<circle cx="91" cy="296" r="5" fill="#F2F3F1" stroke="none" stroke-width="3" />
+</g><circle cx="91.0" cy="305.0" r="1.5" fill="#F2F3F1" stroke="none" stroke-width="3" /><circle cx="98.79422863405995" cy="300.5" r="1.5" fill="#F2F3F1" stroke="none" stroke-width="3" /><circle cx="98.79422863405995" cy="291.5" r="1.5" fill="#F2F3F1" stroke="none" stroke-width="3" /><circle cx="91.0" cy="287.0" r="1.5" fill="#F2F3F1" stroke="none" stroke-width="3" /><circle cx="83.20577136594005" cy="291.5" r="1.5" fill="#F2F3F1" stroke="none" stroke-width="3" /><circle cx="83.20577136594005" cy="300.5" r="1.5" fill="#F2F3F1" stroke="none" stroke-width="3" /><g id="fai081-wheel-1" >
+<circle cx="304" cy="296" r="25" fill="#F2F3F1" stroke="#F2F3F1" stroke-width="3" />
+<circle cx="304" cy="296" r="13" fill="#1C1F21" stroke="#686A6A" stroke-width="2" />
+<circle cx="304" cy="296" r="5" fill="#F2F3F1" stroke="none" stroke-width="3" />
+</g><circle cx="304.0" cy="305.0" r="1.5" fill="#F2F3F1" stroke="none" stroke-width="3" /><circle cx="311.79422863405995" cy="300.5" r="1.5" fill="#F2F3F1" stroke="none" stroke-width="3" /><circle cx="311.79422863405995" cy="291.5" r="1.5" fill="#F2F3F1" stroke="none" stroke-width="3" /><circle cx="304.0" cy="287.0" r="1.5" fill="#F2F3F1" stroke="none" stroke-width="3" /><circle cx="296.20577136594005" cy="291.5" r="1.5" fill="#F2F3F1" stroke="none" stroke-width="3" /><circle cx="296.20577136594005" cy="300.5" r="1.5" fill="#F2F3F1" stroke="none" stroke-width="3" /><g id="fai081-large-box" >
+<path d="M353 286l14 -6.3 36 2.52 -14 6.3Z" fill="#1C1F21" stroke="#F2F3F1" stroke-width="2.5" />
+<path d="M353 286l36 2.52v33l-36 -2.52Z" fill="#1C1F21" stroke="#F2F3F1" stroke-width="2.5" />
+<path d="M389 288.52l14 -6.3v33l-14 6.3Z" fill="#1C1F21" stroke="#F2F3F1" stroke-width="2.5" />
+<path d="M365.6 286.882l14 -6.3 12 0.434 -14 6.3v17l-12-2Z" fill="#1C1F21" stroke="none" stroke-width="3" />
+</g><g id="fai081-small-box" >
+<path d="M393 298l11 -4.95 25 1.98 -11 4.95Z" fill="#1C1F21" stroke="#F2F3F1" stroke-width="2.5" />
+<path d="M393 298l25 1.98v23l-25 -1.98Z" fill="#1C1F21" stroke="#F2F3F1" stroke-width="2.5" />
+<path d="M418 299.98l11 -4.95v23l-11 4.95Z" fill="#1C1F21" stroke="#F2F3F1" stroke-width="2.5" />
+<path d="M401.75 298.693l11 -4.95 12 0.34099999999999997 -11 4.95v17l-12-2Z" fill="#1C1F21" stroke="none" stroke-width="3" />
+</g>
+</g>
+</svg>

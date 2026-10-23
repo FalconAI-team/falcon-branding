@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(2.7866666667)">
+<g id="fai099-event-truss" >
+<rect x="38" y="100" width="267" height="35" rx="3" fill="#686A6A" stroke="#F2F3F1" stroke-width="4" />
+<rect x="40" y="134" width="49" height="177" rx="0" fill="#686A6A" stroke="#F2F3F1" stroke-width="4" />
+<rect x="258" y="134" width="46" height="175" rx="0" fill="#686A6A" stroke="#F2F3F1" stroke-width="4" />
+<path d="M47 110h34v198H47ZM264 110h32v198h-32Z" fill="#141617" stroke="#F2F3F1" stroke-width="2" />
+</g><path d="M47 112l34 32v-8l-26-24Zm34 0-34 32v-8l26-24Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="1.8" /><path d="M47 153l34 32v-8l-26-24Zm34 0-34 32v-8l26-24Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="1.8" /><path d="M47 259l34 32v-8l-26-24Zm34 0-34 32v-8l26-24Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="1.8" /><path d="M47 287l34 32v-8l-26-24Zm34 0-34 32v-8l26-24Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="1.8" /><path d="M264 112l34 32v-8l-26-24Zm34 0-34 32v-8l26-24Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="1.8" /><path d="M264 153l34 32v-8l-26-24Zm34 0-34 32v-8l26-24Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="1.8" /><path d="M264 259l34 32v-8l-26-24Zm34 0-34 32v-8l26-24Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="1.8" /><path d="M264 287l34 32v-8l-26-24Zm34 0-34 32v-8l26-24Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="1.8" /><g id="fai099-gate-signage" >
+<path d="M62 91h54q57-55 116 0h49q8 0 8 8v27q0 8-8 8H62q-8 0-8-8V99q0-8 8-8Z" fill="#141617" stroke="#F2F3F1" stroke-width="5" />
+<circle cx="174" cy="103" r="17" fill="#FFB020" stroke="#F2F3F1" stroke-width="4" />
+<path d="M88 109h55M205 109h56" fill="none" stroke="#FFB020" stroke-width="8" />
+<rect x="46" y="174" width="40" height="82" rx="4" fill="#141617" stroke="#F2F3F1" stroke-width="4" />
+<rect x="263" y="174" width="39" height="82" rx="4" fill="#141617" stroke="#F2F3F1" stroke-width="4" />
+<circle cx="66" cy="198" r="11" fill="#FFB020" stroke="none" stroke-width="3" />
+<circle cx="283" cy="198" r="11" fill="#FFB020" stroke="none" stroke-width="3" />
+<path d="M57 220h19" fill="none" stroke="#686A6A" stroke-width="7" />
+<path d="M57 233h19" fill="none" stroke="#686A6A" stroke-width="7" />
+<path d="M273 220h19" fill="none" stroke="#686A6A" stroke-width="7" />
+<path d="M273 233h19" fill="none" stroke="#686A6A" stroke-width="7" />
+<rect x="27" y="310" width="69" height="28" rx="3" fill="#686A6A" stroke="#F2F3F1" stroke-width="4" />
+<rect x="34" y="307" width="69" height="29" rx="3" fill="#686A6A" stroke="#F2F3F1" stroke-width="3" />
+</g><g id="fai099-event-calendar" >
+<path d="m329 236 91-1 13 101-115 13Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="4" />
+<path d="m327 236 94 1-15 109-101-6Z" fill="#141617" stroke="#F2F3F1" stroke-width="4" />
+<path d="m327 236 94 1-2 20-97-3Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="2" />
+<path d="m327 263 83 3-10 68-85-5Z" fill="#141617" stroke="#686A6A" stroke-width="2" />
+</g><path d="M343 263.6l-10 67" fill="none" stroke="#686A6A" stroke-width="1.5" /><path d="M359 264.2l-10 67" fill="none" stroke="#686A6A" stroke-width="1.5" /><path d="M375 264.8l-10 67" fill="none" stroke="#686A6A" stroke-width="1.5" /><path d="M391 265.4l-10 67" fill="none" stroke="#686A6A" stroke-width="1.5" /><path d="M324 280l83 4" fill="none" stroke="#686A6A" stroke-width="1.5" /><path d="M321 297l83 4" fill="none" stroke="#686A6A" stroke-width="1.5" /><path d="M318 314l83 4" fill="none" stroke="#686A6A" stroke-width="1.5" /><path d="M344 242q-5-2-2-15 5-15 10-6 3 7-1 11" fill="none" stroke="#F2F3F1" stroke-width="4" /><path d="M344 241q-2-7 2-12" fill="none" stroke="#141617" stroke-width="1.5" /><path d="M373 242q-5-2-2-15 5-15 10-6 3 7-1 11" fill="none" stroke="#F2F3F1" stroke-width="4" /><path d="M373 241q-2-7 2-12" fill="none" stroke="#141617" stroke-width="1.5" /><path d="M402 242q-5-2-2-15 5-15 10-6 3 7-1 11" fill="none" stroke="#F2F3F1" stroke-width="4" /><path d="M402 241q-2-7 2-12" fill="none" stroke="#141617" stroke-width="1.5" /><g id="fai099-event-ticket" transform="rotate(9 216 327)">
+<path d="M134 282h168q2 11 11 12v19q-17 2-14 15 1 10 14 11v20q-13-1-13 10H133q-3-10-13-10v-18q15-2 14-14-1-12-14-14v-20q12-1 14-11Z" fill="#141617" stroke="#F2F3F1" stroke-width="4" />
+<rect x="145" y="292" width="117" height="65" rx="2" fill="none" stroke="#686A6A" stroke-width="2" />
+<rect x="151" y="300" width="104" height="50" rx="2" fill="#1C1F21" stroke="none" stroke-width="3" />
+<rect x="278" y="293" width="25" height="64" rx="3" fill="#1C1F21" stroke="none" stroke-width="3" />
+<path d="M272 282v87" fill="none" stroke="#F2F3F1" stroke-width="2.5" stroke-dasharray="5 5"/>
+</g>
+</g>
+</svg>

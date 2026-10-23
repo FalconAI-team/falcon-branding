@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1448 1086" fill="none" style="color:#0E3B5D" stroke="#14171A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+  <g id="fai004-phone">
+    <path d="M619 102H899C937 102 963 131 963 169V808C963 850 936 879 895 880L619 885C578 885 550 857 550 816V173C550 133 578 102 619 102Z" fill="#A6A7A8" stroke-width="13"/>
+    <path d="M646 114H900C932 114 957 138 957 171V809C957 848 933 873 895 873L647 879C616 879 592 856 592 821V175C592 139 613 114 646 114Z" fill="#14171A"/>
+    <path d="M650 125H903C930 125 948 144 948 171V815C948 843 928 862 899 863L696 868C644 868 606 844 606 798V170C606 143 625 125 650 125Z" fill="#FFFFFF" stroke="none"/>
+    <rect x="718" y="134" width="123" height="23" rx="12" fill="#14171A" stroke-width="5"/>
+    <rect x="555" y="235" width="19" height="84" rx="12" fill="#A6A7A8" stroke-width="8"/>
+    <rect x="555" y="340" width="19" height="78" rx="12" fill="#A6A7A8" stroke-width="8"/>
+    <g id="fai004-profile" stroke="none">
+      <circle cx="778" cy="296" r="67" fill="#A6A7A8"/>
+      <rect x="647" y="404" width="260" height="42" rx="19" fill="#A6A7A8"/>
+      <rect x="647" y="478" width="198" height="35" rx="18" fill="#EDEFEC"/>
+      <rect x="647" y="533" width="180" height="34" rx="17" fill="#EDEFEC"/>
+      <rect x="699" y="617" width="191" height="49" rx="24" fill="#FFB020"/>
+    </g>
+  </g>
+  <g id="fai004-security-shield">
+    <path d="M947 504C1017 486 1077 461 1127 419C1131 416 1133 416 1138 420C1189 462 1249 488 1307 501C1319 504 1325 512 1325 524C1326 692 1280 805 1139 881C1132 885 1128 884 1121 880C979 805 929 691 934 522C934 512 938 507 947 504Z" fill="#A6A7A8" stroke-width="13"/>
+    <path d="M971 535C1032 518 1086 495 1130 464C1177 497 1227 520 1287 535C1288 672 1251 770 1130 844C1009 772 971 673 971 535Z" fill="#EDEFEC" stroke-width="8"/>
+    <path d="M1056 640C1066 630 1078 633 1087 642L1110 665L1188 584C1198 574 1211 573 1222 583C1233 593 1232 607 1223 617L1127 713C1118 724 1104 725 1093 715L1056 678C1045 667 1045 651 1056 640Z" fill="#FFB020" stroke-width="8"/>
+  </g>
+  <g id="fai004-payment-card" transform="rotate(4.5 412 776)">
+    <path d="M189 607H651C674 607 687 623 686 645L680 902C680 927 663 943 640 943H175C151 943 138 926 141 904L153 642C154 620 168 607 189 607Z" fill="#A6A7A8" stroke-width="13"/>
+    <g id="fai004-card-chip" fill="#FFB020" stroke-width="6">
+      <rect x="193" y="703" width="103" height="88" rx="16"/>
+      <path d="M227 703V791M253 791V734H296M193 733H227M193 760H227M253 761H296"/>
+    </g>
+    <path d="M201 832H601" stroke="#FFFFFF" stroke-width="28"/>
+    <path d="M199 879H293M332 879H414" stroke="#EDEFEC" stroke-width="24"/>
+  </g>
+  <g id="fai004-coin" fill="#FFB020">
+    <circle cx="954" cy="838" r="120" stroke-width="12"/>
+    <circle cx="954" cy="838" r="92" stroke-width="8"/>
+  </g>
+</svg>

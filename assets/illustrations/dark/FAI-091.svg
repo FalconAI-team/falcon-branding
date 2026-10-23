@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(2.7866666667)">
+<g id="fai091-composition-position" transform="translate(0 55)">
+<g id="fai091-inbox" >
+<path d="M34 222 62 163h145l29 62v49H34Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="4" />
+<path d="m63 168 141 0 12 29H54Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="2" />
+<path d="m54 197 162 0 15 36H38Z" fill="#141617" stroke="#F2F3F1" stroke-width="2" />
+<path d="m34 222 48 0q7 0 10 8l6 10q2 4 8 4h64q7 0 10-7l3-8q2-5 9-5h44v40q0 12-10 12H44q-10 0-10-10Z" fill="#686A6A" stroke="#F2F3F1" stroke-width="4" />
+<path d="M62 163v34M207 163v34" fill="none" stroke="#F2F3F1" stroke-width="2" />
+</g><g id="fai091-candidate-profile" >
+<rect x="243" y="68" width="153" height="206" rx="10" fill="#141617" stroke="#F2F3F1" stroke-width="4" />
+<circle cx="291" cy="122" r="35" fill="#1C1F21" stroke="#F2F3F1" stroke-width="2.5" />
+<path d="M264 142q-7-5 1-16-2-8 6-15 5-22 21-20 17-1 21 21 7 7 3 18 8 9-1 14Z" fill="#F2F3F1" stroke="#F2F3F1" stroke-width="1.5" />
+<path d="M277 129v9l-10 7q20 15 45-1l-10-7-1-12Z" fill="#FFB020" stroke="#F2F3F1" stroke-width="1.2" />
+<path d="M279 111q-5-5-5 1 0 6 5 7 4 11 12 11 10-2 12-13 5-7 0-9l-7-10q-5 10-17 13Z" fill="#EDB182" stroke="#F2F3F1" stroke-width="1.3" />
+<path d="M338 112h35" fill="none" stroke="#686A6A" stroke-width="12" />
+<path d="M338 130h27" fill="none" stroke="#1C1F21" stroke-width="7" />
+</g><circle cx="264" cy="175" r="6" fill="#686A6A" stroke="none" stroke-width="3" /><path d="M281 174h91" fill="none" stroke="#1C1F21" stroke-width="7" />
+<path d="M281 187h58" fill="none" stroke="#1C1F21" stroke-width="7" /><circle cx="264" cy="208" r="6" fill="#686A6A" stroke="none" stroke-width="3" /><path d="M281 207h91" fill="none" stroke="#1C1F21" stroke-width="7" />
+<path d="M281 220h58" fill="none" stroke="#1C1F21" stroke-width="7" /><circle cx="264" cy="241" r="6" fill="#686A6A" stroke="none" stroke-width="3" /><path d="M281 240h91" fill="none" stroke="#1C1F21" stroke-width="7" />
+<path d="M281 253h58" fill="none" stroke="#1C1F21" stroke-width="7" />
+</g>
+</g>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(2.7866666667)">
+<g id="fai104-inactive-board" >
+<rect x="63" y="83" width="230" height="260" rx="13" fill="var(--illustration-fill, #8195A5)" stroke="var(--illustration-ink, currentColor)" stroke-width="4" />
+<rect x="76" y="96" width="204" height="234" rx="0" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="2.5" />
+<rect x="84" y="341" width="15" height="28" rx="2" fill="var(--illustration-fill, #8195A5)" stroke="var(--illustration-ink, currentColor)" stroke-width="3" />
+<rect x="256" y="341" width="15" height="28" rx="2" fill="var(--illustration-fill, #8195A5)" stroke="var(--illustration-ink, currentColor)" stroke-width="3" />
+<rect x="187" y="110" width="77" height="95" rx="6" fill="none" stroke="var(--illustration-ink, currentColor)" stroke-width="2" stroke-dasharray="6 6"/>
+<circle cx="226" cy="117" r="3" fill="var(--illustration-fill, #8195A5)" stroke="var(--illustration-ink, currentColor)" stroke-width="2" />
+</g><g id="fai104-top-listing" transform="rotate(0 130.0 160.0)">
+<rect x="90" y="111" width="80" height="98" rx="6" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="3" />
+<rect x="98" y="125" width="64" height="36" rx="3" fill="var(--illustration-muted, #E3E9EE)" stroke="none" stroke-width="3" />
+<path d="M98 161l17-13 8 7 19-19 20 20v5Z" fill="var(--illustration-fill, #8195A5)" stroke="none" stroke-width="3" />
+<circle cx="116" cy="138" r="5" fill="var(--illustration-paper, #F8F8F5)" stroke="none" stroke-width="3" />
+<path d="M102 171h44" fill="none" stroke="var(--illustration-ink, currentColor)" stroke-width="7" />
+<path d="M101 183h58" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="5" />
+<circle cx="104" cy="196" r="5" fill="var(--illustration-fill, #8195A5)" stroke="none" stroke-width="3" />
+<path d="M116 196h26" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="5" />
+<circle cx="130.0" cy="112" r="6" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="2.5" />
+</g><g id="fai104-bottom-listing" transform="rotate(0 130.0 269.0)">
+<rect x="90" y="220" width="80" height="98" rx="6" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="3" />
+<rect x="98" y="234" width="64" height="36" rx="3" fill="var(--illustration-muted, #E3E9EE)" stroke="none" stroke-width="3" />
+<path d="M98 270l17-13 8 7 19-19 20 20v5Z" fill="var(--illustration-fill, #8195A5)" stroke="none" stroke-width="3" />
+<circle cx="116" cy="247" r="5" fill="var(--illustration-paper, #F8F8F5)" stroke="none" stroke-width="3" />
+<path d="M102 280h44" fill="none" stroke="var(--illustration-ink, currentColor)" stroke-width="7" />
+<path d="M101 292h58" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="5" />
+<circle cx="104" cy="305" r="5" fill="var(--illustration-fill, #8195A5)" stroke="none" stroke-width="3" />
+<path d="M116 305h26" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="5" />
+<circle cx="130.0" cy="221" r="6" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="2.5" />
+</g><g id="fai104-bottom-right-listing" transform="rotate(0 217.0 269.0)">
+<rect x="179" y="220" width="76" height="98" rx="6" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="3" />
+<rect x="187" y="234" width="60" height="36" rx="3" fill="var(--illustration-muted, #E3E9EE)" stroke="none" stroke-width="3" />
+<path d="M187 270l17-13 8 7 19-19 20 20v5Z" fill="var(--illustration-fill, #8195A5)" stroke="none" stroke-width="3" />
+<circle cx="205" cy="247" r="5" fill="var(--illustration-paper, #F8F8F5)" stroke="none" stroke-width="3" />
+<path d="M191 280h40" fill="none" stroke="var(--illustration-ink, currentColor)" stroke-width="7" />
+<path d="M190 292h54" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="5" />
+<circle cx="193" cy="305" r="5" fill="var(--illustration-fill, #8195A5)" stroke="none" stroke-width="3" />
+<path d="M205 305h22" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="5" />
+<circle cx="217.0" cy="221" r="6" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="2.5" />
+</g><g id="fai104-removed-listing" transform="rotate(19 296.0 232.5)">
+<rect x="249" y="173" width="94" height="119" rx="6" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="3" />
+<rect x="257" y="187" width="78" height="36" rx="3" fill="var(--illustration-muted, #E3E9EE)" stroke="none" stroke-width="3" />
+<path d="M257 223l17-13 8 7 19-19 20 20v5Z" fill="var(--illustration-fill, #8195A5)" stroke="none" stroke-width="3" />
+<circle cx="275" cy="200" r="5" fill="var(--illustration-paper, #F8F8F5)" stroke="none" stroke-width="3" />
+<path d="M261 233h58" fill="none" stroke="var(--illustration-ink, currentColor)" stroke-width="7" />
+<path d="M260 245h72" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="5" />
+<circle cx="263" cy="258" r="5" fill="var(--illustration-fill, #8195A5)" stroke="none" stroke-width="3" />
+<path d="M275 258h40" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="5" />
+<circle cx="296.0" cy="174" r="6" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="2.5" />
+</g><g id="fai104-removal-attention" >
+<path d="m352 166 8-14m8 26 13-11m-7 27 14-2" fill="none" stroke="var(--illustration-accent, #D2A852)" stroke-width="6" />
+</g><g id="fai104-publication-paused" >
+<circle cx="337" cy="320" r="44" fill="var(--illustration-fill, #8195A5)" stroke="var(--illustration-ink, currentColor)" stroke-width="5" />
+<rect x="318" y="300" width="12" height="43" rx="6" fill="var(--illustration-paper, #F8F8F5)" stroke="none" stroke-width="3" />
+<rect x="339" y="300" width="12" height="43" rx="6" fill="var(--illustration-paper, #F8F8F5)" stroke="none" stroke-width="3" />
+</g>
+</g>
+</svg>

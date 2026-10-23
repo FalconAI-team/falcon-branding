@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke="#14171A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="fai026-title">
+<title id="fai026-title">Ошибка загрузки изображения</title>
+<g transform="scale(3.2153846154) translate(-5 0)">
+<rect x="69" y="87" width="251" height="205" rx="12" fill="#FFFFFF" stroke-width="7"/>
+<rect x="89" y="109" width="212" height="164" rx="6" fill="#EDEFEC" stroke-width="5"/>
+<path d="M89 236 160 186Q166 181 172 186L249 255 301 255V273H89Z" fill="#A6A7A8" stroke-width="4"/>
+<path d="M209 215 244 192Q250 188 255 192L301 225V255H249Z" fill="#EDEFEC" stroke-width="4"/>
+<circle cx="139" cy="151" r="21" fill="#FFB020" stroke-width="4"/>
+<circle cx="298" cy="269" r="54" fill="#FFFFFF" stroke-width="6"/>
+<g id="fai026-broken-link-298" transform="translate(298 269) scale(0.9)"><path d="M-5 -14 7 -27Q18 -37 29 -27Q40 -16 29 -5L17 7 10 0 23 -13Q28 -18 23 -22Q19 -26 14 -21L1 -9Z" fill="#A6A7A8" stroke-width="3"/><path d="M-15 -4 -28 9Q-39 20 -28 31Q-17 42 -6 30L7 17 0 10 -13 24Q-18 28 -22 23Q-26 18 -21 13L-8 0Z" fill="#A6A7A8" stroke-width="3"/><path d="M-4 -27 -8 -37" fill="none" stroke-width="3" stroke="#FFB020"/><path d="M-15 -20 -24 -25" fill="none" stroke-width="3" stroke="#FFB020"/><path d="M24 20 32 25" fill="none" stroke-width="3" stroke="#FFB020"/><path d="M16 29 20 38" fill="none" stroke-width="3" stroke="#FFB020"/></g>
+</g></svg>

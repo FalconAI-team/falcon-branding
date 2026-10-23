@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke="var(--illustration-ink, currentColor)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="fai036-title">
+<title id="fai036-title">Формат видео не поддерживается</title>
+<g transform="scale(3.2153846154) translate(-5 0)">
+<path d="M94 61H232L287 117V298Q287 317 270 317H96Q80 317 80 300V78Q80 61 94 61Z" fill="var(--illustration-paper, #F8F8F5)" stroke-width="8"/>
+<path d="M231 61V105Q231 120 246 120H287" fill="var(--illustration-fill, #8195A5)" stroke-width="6"/>
+<rect x="103" y="150" width="161" height="104" rx="6" fill="var(--illustration-fill, #8195A5)" stroke-width="7"/>
+<rect x="105" y="151" width="25" height="103" rx="2" fill="var(--illustration-ink, currentColor)" stroke-width="0"/>
+<rect x="238" y="151" width="24" height="103" rx="2" fill="var(--illustration-ink, currentColor)" stroke-width="0"/>
+<rect x="107" y="155" width="15" height="16" rx="4" fill="var(--illustration-paper, #F8F8F5)" stroke-width="0"/>
+<rect x="107" y="181" width="15" height="16" rx="4" fill="var(--illustration-paper, #F8F8F5)" stroke-width="0"/>
+<rect x="107" y="207" width="15" height="16" rx="4" fill="var(--illustration-paper, #F8F8F5)" stroke-width="0"/>
+<rect x="107" y="233" width="15" height="16" rx="4" fill="var(--illustration-paper, #F8F8F5)" stroke-width="0"/>
+<rect x="245" y="155" width="15" height="16" rx="4" fill="var(--illustration-paper, #F8F8F5)" stroke-width="0"/>
+<rect x="245" y="181" width="15" height="16" rx="4" fill="var(--illustration-paper, #F8F8F5)" stroke-width="0"/>
+<rect x="245" y="207" width="15" height="16" rx="4" fill="var(--illustration-paper, #F8F8F5)" stroke-width="0"/>
+<rect x="245" y="233" width="15" height="16" rx="4" fill="var(--illustration-paper, #F8F8F5)" stroke-width="0"/>
+<path d="M163 185Q163 178 169 182L203 203Q208 206 202 210L168 231Q162 235 162 229Z" fill="var(--illustration-accent, #D2A852)" stroke-width="4"/>
+<g id="fai036-format-error" transform="rotate(9 288 290)"><path d="M243 273 264 273V260Q264 253 271 253H327Q335 253 335 262V319Q335 326 327 326H270Q264 326 264 319V305H242Q237 305 237 300V279Q237 273 243 273Z" fill="var(--illustration-fill, #8195A5)" stroke-width="6"/><path d="M244 277H261V301H241Z" fill="var(--illustration-accent, #D2A852)" stroke-width="3"/><path d="M281 271 293 284 306 272Q309 269 312 273L316 278Q317 281 314 284L303 296 316 309 308 315 294 301 281 314 274 307 287 294 274 280Q271 277 275 274Z" fill="var(--illustration-accent, #D2A852)" stroke-width="3"/></g>
+</g></svg>

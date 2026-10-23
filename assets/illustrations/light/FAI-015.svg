@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke="#14171A" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="fai015-title">
+<title id="fai015-title">Настройка предпочтений</title>
+<g transform="scale(3.2153846154) translate(-5 0)">
+<rect x="56" y="60" width="288" height="267" rx="12" fill="#FFFFFF" stroke-width="4"/>
+<circle cx="93" cy="97" r="14" fill="#A6A7A8" stroke-width="0"/>
+<circle cx="93" cy="142" r="14" fill="#A6A7A8" stroke-width="0"/>
+<path d="M124 97H237" fill="none" stroke-width="12" stroke="#A6A7A8"/>
+<path d="M124 142H237" fill="none" stroke-width="12" stroke="#A6A7A8"/>
+<rect x="270" y="84" width="50" height="25" rx="13" fill="#FFB020" stroke-width="3"/>
+<circle cx="307" cy="96" r="11" fill="#FFFFFF" stroke-width="3"/>
+<rect x="270" y="129" width="50" height="25" rx="13" fill="#A6A7A8" stroke-width="3"/>
+<circle cx="282" cy="141" r="11" fill="#FFFFFF" stroke-width="3"/>
+<path d="M70 171H330" fill="none" stroke-width="2" stroke="#A6A7A8"/>
+<rect x="70" y="186" width="80" height="122" rx="11" fill="#FFFFFF" stroke-width="3"/>
+<rect x="160" y="186" width="80" height="122" rx="11" stroke="#FFB020" fill="#FFFFFF" stroke-width="3"/>
+<rect x="250" y="186" width="80" height="122" rx="11" fill="#FFFFFF" stroke-width="3"/>
+<path d="M79 266 101 222 126 266Z" fill="#A6A7A8" stroke-width="2.5"/>
+<path d="M117 266 129 242 142 266Z" fill="#A6A7A8" stroke-width="2.5"/>
+<circle cx="119" cy="216" r="10" fill="#FFB020" stroke-width="0"/>
+<path d="M200 260Q201 231 177 212Q172 237 198 250M200 260Q197 241 224 236Q222 256 201 257" fill="#A6A7A8" stroke-width="2.5"/>
+<path d="M202 235Q204 212 227 206Q228 227 202 235Z" fill="#FFB020" stroke-width="0"/>
+<circle cx="290" cy="234" r="28" fill="#EDEFEC" stroke-width="2.5"/>
+<path d="M290 206Q294 220 282 226L275 237 263 235M311 221Q295 225 301 239L312 245M279 259Q271 243 280 243Q294 244 288 262" fill="#A6A7A8" stroke-width="2.5"/>
+<path d="M86 284H129" fill="none" stroke-width="8" stroke="#A6A7A8"/>
+<path d="M86 299H120" fill="none" stroke-width="8" stroke="#A6A7A8"/>
+<path d="M176 284H226" fill="none" stroke-width="8" stroke="#A6A7A8"/>
+<path d="M176 299H212" fill="none" stroke-width="8" stroke="#A6A7A8"/>
+<path d="M266 284H316" fill="none" stroke-width="8" stroke="#A6A7A8"/>
+<path d="M266 299H302" fill="none" stroke-width="8" stroke="#A6A7A8"/>
+</g></svg>

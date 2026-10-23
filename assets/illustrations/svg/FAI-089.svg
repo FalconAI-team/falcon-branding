@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(2.7866666667)">
+<g id="fai089-pedestal" >
+<ellipse cx="355" cy="233" rx="43" ry="6" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.5" />
+<path d="M352 239v144h7V239Z" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.5" />
+<ellipse cx="355" cy="389" rx="23" ry="4" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.5" />
+<path d="m324 225 27-4 40 2v5l-22 5-45-3Z" fill="var(--illustration-fill, #8195A5)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.5" />
+<path d="m324 225 45 3 22-5M369 228v5" fill="none" stroke="var(--illustration-ink, currentColor)" stroke-width="1" />
+</g><g id="fai089-woman-legs" >
+<path d="M124 181q-4 41 0 107-15 34-15 82l20 5q20-66 27-113l9-39-5 68q-7 42-1 80l17-1 10-77q10-72 7-111Z" fill="var(--illustration-muted, #E3E9EE)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.5" />
+<path d="M171 187q1 17-2 26M168 221l-4 3M130 362l12-49" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="1" />
+<path d="m114 373-4 19q-8 13-3 20 8 10 17 0l2-19 1-18Z" fill="var(--illustration-skin, #EDB182)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.5" />
+<path d="m160 371-1 9q-9 8-2 21l4 1 2-10 7 10q15 6 19 0 0-3-9-9l-5-11-2-12Z" fill="var(--illustration-skin, #EDB182)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.5" />
+<path d="M109 397q11 7 17 0l1 9q-2 13-13 12-12-1-6-15Z" fill="var(--illustration-ink, currentColor)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.5" />
+<path d="m156 383 7 11q6 10 18 7 8 2 9 6-9 8-22-1l-8-9v8l-4-1q-3-15-2-18Z" fill="var(--illustration-ink, currentColor)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.3" />
+</g><g id="fai089-woman-hair" >
+<path d="M143 67q8-20 25-16 20-2 24 19 2 11-2 21 8 20-7 20l-34-2q-29 3-21-19Z" fill="var(--illustration-ink, currentColor)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.5" />
+</g><g id="fai089-woman-neck" >
+<path d="M150 88q2 12-4 21 6 15 24 11l6-15-8-15Z" fill="var(--illustration-skin, #EDB182)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.4" />
+</g><g id="fai089-woman-jacket" >
+<path d="M143 107q-16 0-23 8-7 10-8 31l-2 25q2 10 16 11l-8 31q20 11 34 2 7-11 9-31l5 1q1 21 5 30 10 10 24-2l-9-35 18-13-11-48q-4-8-19-10l1 20-14 36-14-41Z" fill="var(--illustration-ink, currentColor)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.7" />
+<path d="m149 116 13 2 12-2 2 17-9 49-7 0Z" fill="var(--illustration-paper, #F8F8F5)" stroke="none" stroke-width="3" />
+<path d="M143 108l-1 9 4 2-5 3 17 35M175 110l5 7-4 3 4 4-4 19M122 119q14 13 10 43M121 165q5-5 10-4l26-1M127 183l19 2-1 6-21-1" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="1" />
+</g><g id="fai089-woman-face" >
+<path d="M155 78q-6-6-6 1 0 8 6 9 4 10 12 14 9 4 15-11 7-17-1-26-8 10-22 14Z" fill="var(--illustration-skin, #EDB182)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.4" />
+<path d="M167 77q4-2 7 1M178 89l-2 2M169 94q4 3 7 0" fill="none" stroke="var(--illustration-ink, currentColor)" stroke-width="0.9" />
+<circle cx="170" cy="82" r="1.4" fill="var(--illustration-ink, currentColor)" stroke="none" stroke-width="3" />
+<circle cx="181" cy="84" r="1.2" fill="var(--illustration-ink, currentColor)" stroke="none" stroke-width="3" />
+</g><g id="fai089-man-trousers" >
+<path d="M224 187q-1 14 0 29l12 164h21l2-141 12 52 16 95 21-2q2-30-6-78l-5-89 2-26Z" fill="var(--illustration-ink, currentColor)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.8" />
+<path d="M249 224l8 7 2 13M252 197l2 25M240 380l17-1M289 381l15-1" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="0.8" />
+</g><g id="fai089-man-shoes" >
+<path d="m237 379q-7 10-21 15-10 4-6 11 15 6 35-1l3-3 11-1v-17Z" fill="var(--illustration-ink, currentColor)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.5" />
+<path d="m289 386-1 18q-5 13 9 14 16 1 13-12l-6-20Z" fill="var(--illustration-ink, currentColor)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.5" />
+<path d="M212 402q19 4 34-5M232 390l7 3m-4-5 8 3M293 394l9-1m-9 5 10-1M289 410q9 4 19 0" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="1" />
+</g><g id="fai089-man-shirt" >
+<path d="m247 86-17 10-7 60 9 34 30 1 13-86-8-22Z" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.5" />
+<path d="m246 79 1 15 10 11 14-19-2-13Z" fill="var(--illustration-skin, #EDB182)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.5" />
+<path d="M256 107l-5 78" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="0.8" />
+<path d="m245 90-7 14 9-6 9 8 5-7 9 7 4-23" fill="none" stroke="var(--illustration-ink, currentColor)" stroke-width="1.3" />
+</g><g id="fai089-man-jacket" >
+<path d="m240 91-19 10q-7 4-9 17l-13 55 17 0 7-27-2 32-5 40q7 10 13 1 8-22 13-61l4-47-8 5 4-9Z" fill="var(--illustration-fill, #8195A5)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.6" />
+<path d="m275 85 28 12q7 2 10 14l14 52q2 7-3 19l-20 32-15-13 9-28-1-27-7 43q-9 36-18 20-7-12-9-32l14-64-4-5 9-1Z" fill="var(--illustration-fill, #8195A5)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.7" />
+<path d="M305 102q-12 13-8 33l7 29M305 161q6-4 11-3M285 183l12-4" fill="none" stroke="var(--illustration-ink, currentColor)" stroke-width="1" />
+<path d="m292 199 10 6-7 17-7-14Z" fill="var(--illustration-skin, #EDB182)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.3" />
+<path d="m291 196 13 8-2 4-13-8Z" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.3" />
+</g><g id="fai089-man-face" >
+<path d="M232 48q-1 28 17 40 10 8 19-2l2-9q7-3 6-11-1-12-9-7l-6-15Z" fill="var(--illustration-skin, #EDB182)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.5" />
+<path d="M231 57q-14-15-8-17 6 4 14-2 12-10 23-3 15 5 15 19 1 7-3 13-2-14-8-9l-4-10q-15 1-29 6Z" fill="var(--illustration-ink, currentColor)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.7" />
+<path d="M232 64q4-2 8 0M245 63q4-3 8-1M241 69l-1 7 4 1M241 80q7 2 11-2" fill="none" stroke="var(--illustration-ink, currentColor)" stroke-width="1" />
+<circle cx="236" cy="68" r="1.4" fill="var(--illustration-ink, currentColor)" stroke="none" stroke-width="3" />
+<circle cx="249" cy="66" r="1.5" fill="var(--illustration-ink, currentColor)" stroke="none" stroke-width="3" />
+</g><g id="fai089-candidate-sheet" >
+<path d="m187 125 42 0 8 47-41-1Z" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.4" />
+<circle cx="201" cy="136" r="6" fill="var(--illustration-accent, #D2A852)" stroke="none" stroke-width="3" />
+<circle cx="201" cy="134" r="2" fill="var(--illustration-paper, #F8F8F5)" stroke="none" stroke-width="3" />
+<path d="m197 140q0-5 4-5t4 5Z" fill="var(--illustration-paper, #F8F8F5)" stroke="none" stroke-width="3" />
+<path d="M212 134h12" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="1.1" />
+<path d="M212 138h10" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="1.1" />
+<path d="M202 146h23" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="1.1" />
+<path d="M202 150h23" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="1.1" />
+<path d="M202 154h23" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="1.1" />
+<path d="M202 158h23" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="1.1" />
+<path d="M202 162h13" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="1.1" />
+</g><g id="fai089-reviewing-hands" >
+<path d="m156 161 12-4q8-10 14-9l10-1q8 0 7 4l-15 1 15 1q4 3-1 4l-14 1 13 1q3 4-2 4l-11 0q-6 6-16 6l-11 5Z" fill="var(--illustration-skin, #EDB182)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.2" />
+<path d="m258 160-8-1-9-6q-8-1-13 1-7 3-1 5l14-1-15 3q-6 3 0 4l16-1-15 3q-5 4 1 4l15 0 9 3h7Z" fill="var(--illustration-skin, #EDB182)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.3" />
+<path d="m258 159h4v19h-5Z" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="1.3" />
+</g>
+</g>
+</svg>

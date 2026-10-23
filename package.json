@@ -1,0 +1,21 @@
+{
+  "name": "falcon-branding",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Falcon AI: брендинг и UI-кит (дизайн-система) для React, Next.js, HTML, Tailwind v4 и Flutter.",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node scripts/serve.mjs --open",
+    "serve": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs --open",
+    "sync:illustrations": "node scripts/sync-illustrations.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FalconAI-team/falcon-branding.git"
+  }
+}

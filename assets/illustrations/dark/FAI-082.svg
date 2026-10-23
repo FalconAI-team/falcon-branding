@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(2.7866666667)">
+<g id="fai082-route" >
+<path d="M88 346Q93 303 149 281Q207 251 200 207Q198 186 185 161L202 151Q240 151 257 173Q270 193 301 193L352 182 363 196Q305 224 268 202Q250 192 243 180Q228 165 205 169Q228 219 204 253Q187 280 153 293Q111 312 103 349Z" fill="#1C1F21" stroke="#F2F3F1" stroke-width="4" />
+<ellipse cx="91" cy="348" rx="34" ry="13" fill="#141617" stroke="#F2F3F1" stroke-width="4" />
+<ellipse cx="220" cy="157" rx="26" ry="11" fill="#141617" stroke="#F2F3F1" stroke-width="4" />
+<ellipse cx="382" cy="190" rx="27" ry="11" fill="#141617" stroke="#F2F3F1" stroke-width="4" />
+</g><g id="fai082-origin" >
+<path d="M90 348.05Q40.5 295.25 57 268.85Q90 221 123 268.85Q139.5 295.25 90 348.05Z" fill="#FFB020" stroke="#F2F3F1" stroke-width="4" />
+<circle cx="90" cy="287" r="15.84" fill="#141617" stroke="#F2F3F1" stroke-width="3" />
+</g><g id="fai082-waypoint" >
+<path d="M220 156.8Q178.0 112.0 192 89.6Q220 49 248 89.6Q262.0 112.0 220 156.8Z" fill="#FFB020" stroke="#F2F3F1" stroke-width="4" />
+<circle cx="220" cy="105" r="13.44" fill="#141617" stroke="#F2F3F1" stroke-width="3" />
+</g><g id="fai082-destination" >
+<path d="M382 190.8Q340.0 146.0 354 123.6Q382 83 410 123.6Q424.0 146.0 382 190.8Z" fill="#FFB020" stroke="#F2F3F1" stroke-width="4" />
+<circle cx="382" cy="139" r="13.44" fill="#141617" stroke="#F2F3F1" stroke-width="3" />
+</g><g id="fai082-route-task" >
+<path d="M270 216 391 228q8 1 6 9l-23 124-30 24-100-14q-9-1-7-10l26-137q1-8 7-8Z" fill="#141617" stroke="#F2F3F1" stroke-width="4" />
+<path d="m374 361-23-3q-6-1-7 6l-3 21Z" fill="#1C1F21" stroke="#F2F3F1" stroke-width="3" />
+<path d="m290 246-19 86" fill="none" stroke="#F2F3F1" stroke-width="3" />
+<circle cx="290" cy="246" r="10" fill="#FFB020" stroke="#F2F3F1" stroke-width="3" />
+<circle cx="281" cy="289" r="10" fill="#FFB020" stroke="#F2F3F1" stroke-width="3" />
+<circle cx="271" cy="332" r="10" fill="#FFB020" stroke="#F2F3F1" stroke-width="3" />
+<path d="M314 248h58" fill="none" stroke="#686A6A" stroke-width="10" />
+<path d="M309 264h45" fill="none" stroke="#1C1F21" stroke-width="7" />
+<path d="M305 291h61" fill="none" stroke="#686A6A" stroke-width="10" />
+<path d="M301 307h44" fill="none" stroke="#1C1F21" stroke-width="7" />
+<path d="M297 334h61" fill="none" stroke="#686A6A" stroke-width="10" />
+<path d="M293 350h43" fill="none" stroke="#1C1F21" stroke-width="7" />
+</g>
+</g>
+</svg>

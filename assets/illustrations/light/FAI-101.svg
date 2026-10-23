@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(2.7866666667)">
+<g id="fai101-noticeboard" >
+<path d="m202 28 141-10q10-1 10 10v165q0 8-10 8H201q-5 0-5-9V36q0-8 6-8Z" fill="#A6A7A8" stroke="#14171A" stroke-width="3" />
+<path d="m206 37 134-9v164H206Z" fill="#FFB020" stroke="#14171A" stroke-width="2" />
+<path d="m245 57 39-4v53l-39 2Z" fill="#FFFFFF" stroke="#14171A" stroke-width="2" />
+<path d="m298 59 33-4v50l-33 2Z" fill="#FFFFFF" stroke="#14171A" stroke-width="2" />
+<path d="m245 145 34-1-3 42h-37Z" fill="#FFFFFF" stroke="#14171A" stroke-width="2" />
+<path d="m291 128 34-2v49l-35 1Z" fill="#FFFFFF" stroke="#14171A" stroke-width="2" />
+<circle cx="263" cy="57" r="4" fill="#FFB020" stroke="#14171A" stroke-width="2" />
+<circle cx="314" cy="59" r="4" fill="#FFB020" stroke="#14171A" stroke-width="2" />
+<circle cx="260" cy="146" r="3.5" fill="#FFB020" stroke="#14171A" stroke-width="1.7" />
+<circle cx="307" cy="128" r="3.5" fill="#FFB020" stroke="#14171A" stroke-width="1.7" />
+</g><g id="fai101-posting-woman-legs" >
+<path d="M143 191q-17 24-17 48l-2 67q-14 24-19 84 15 6 28 2l22-79 7-31-1 34q-2 26 4 80 13 5 27-1l5-113q8-56-10-92Z" fill="#A6A7A8" stroke="#14171A" stroke-width="1.8" />
+<path d="M149 216q-8 21 6 32l7 34M180 195l7 28" fill="none" stroke="#14171A" stroke-width="1.3" />
+<path d="m111 393-4 13q-8 11 0 15l39-4q14-6-1-10l-12-3-3-10Z" fill="#EDB182" stroke="#14171A" stroke-width="1.7" />
+<path d="m172 398-3 11q-5 12 4 16h39q20-3 7-11l-21-6-9-10Z" fill="#EDB182" stroke="#14171A" stroke-width="1.7" />
+<path d="m108 404 33 10q4 1 6-2l7 4q4 6-12 7l-31 1q-12 0-7-14Z" fill="#FFFFFF" stroke="#14171A" stroke-width="2" />
+<path d="m169 411q27 12 41 4 18 5 9 10l-12 2h-35q-8-1-3-16Z" fill="#FFFFFF" stroke="#14171A" stroke-width="2" />
+</g><g id="fai101-posting-woman-neck-face" >
+<path d="M153 104v17l21 4 2-19Z" fill="#EDB182" stroke="#14171A" stroke-width="1.7" />
+<path d="M152 76q-5-5-4 4 1 8 10 8 0 10 10 16 15 4 19-2l1-16 3-2-6-8q-1-10-8-15-4 17-20 20Z" fill="#EDB182" stroke="#14171A" stroke-width="1.8" />
+<path d="M173 73q3-2 5 0M182 93q4 2 6-1" fill="none" stroke="#14171A" stroke-width="1.2" />
+<circle cx="177" cy="80" r="1.5" fill="#14171A" stroke="none" stroke-width="3" />
+</g><g id="fai101-raised-arm-back" >
+<path d="M174 123q15-7 26-17l17-24 14 12-20 28q-8 10-22 17Z" fill="#FFFFFF" stroke="#14171A" stroke-width="2" />
+<path d="m217 82 10-12 7-16q3-6 10-6l9-1q8 1 11 4l-11 0-6 4q-4 6 3 4l9-6 6 1q1 3-4 6l-10 11-7 3-10 14Z" fill="#EDB182" stroke="#14171A" stroke-width="1.8" />
+</g><g id="fai101-posting-blouse" >
+<path d="M153 118q-17 1-19 13-3 11 4 30l5 22q-6 10 4 10h37q8 0 7-9l7-27 30 3q12 1 21-7l18-15-11-17-26 16-29-10q-17-7-27-6Z" fill="#FFFFFF" stroke="#14171A" stroke-width="2" />
+<path d="M184 124q-6 7-3 18M185 152l13 5" fill="none" stroke="#14171A" stroke-width="1.2" />
+<path d="m257 122 12-9 4-11 8-10q6-6 4 0l-6 10q6-2 8-10 2-5 4-1l-2 10q4-8 4-1l-1 8q-3 7-12 13l-12 10Z" fill="#EDB182" stroke="#14171A" stroke-width="1.7" />
+</g><g id="fai101-posting-woman-hair" >
+<path d="M169 55q-20-6-33 11-9 10-9 25-12 12-15 23-6 21 19 27 15 5 19-9 3-7 0-12 2-12 9-23l-1-8q-11-3-9-11 3-7 9 0 16-10 12-17 12 6 10 15 4-14-2-18-3-3-9-3Z" fill="#14171A" stroke="#14171A" stroke-width="2" />
+<path d="M136 100q-1 12-9 18-12 16-1 22M145 105q-15 23-1 31" fill="none" stroke="#A6A7A8" stroke-width="1.1" />
+</g>
+</g>
+</svg>

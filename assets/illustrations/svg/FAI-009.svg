@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke="var(--illustration-ink, currentColor)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+  <g id="fai009-folder-back" fill="var(--illustration-fill, #8195A5)">
+    <path d="M230 985 153 480Q146 442 180 438L760 382Q784 381 799 405L1049 604 1017 932Z"/>
+    <path d="M249 829 214 582Q209 559 232 553L836 495Q855 494 870 516L1017 659 990 917Z" fill="var(--illustration-paper, #F8F8F5)"/>
+  </g>
+  <g id="fai009-document">
+    <path d="M326 700V232Q326 210 348 210H766Q777 210 790 224L894 329Q903 337 903 352V700Z" fill="var(--illustration-paper, #F8F8F5)"/>
+    <path d="M776 215V318Q776 337 795 337H896Z" fill="var(--illustration-muted, #E3E9EE)"/>
+    <circle cx="460" cy="348" r="52" fill="var(--illustration-fill, #8195A5)" stroke="none"/>
+    <path d="M428 450H801" stroke="var(--illustration-fill, #8195A5)" stroke-width="37"/>
+    <path d="M425 515H784M425 570H809" stroke="var(--illustration-muted, #E3E9EE)" stroke-width="30"/>
+  </g>
+  <g id="fai009-pencil">
+    <path d="M901 624 1022 252Q1031 226 1057 232L1093 245Q1117 254 1108 280L990 633Z" fill="var(--illustration-accent, #D2A852)"/>
+    <path d="M1008 289 1022 252Q1031 226 1057 232L1093 245Q1117 254 1108 280L1095 319Z" fill="var(--illustration-fill, #8195A5)"/>
+    <path d="M1008 289 1095 319 1080 360 994 330Z" fill="var(--illustration-paper, #F8F8F5)"/>
+    <path d="M1037 345 943 626" stroke-width="8"/>
+  </g>
+  <g id="fai009-folder-front">
+    <path d="M229 977 288 638Q293 611 323 607L532 590Q553 588 567 605L593 639Q598 646 610 644L1058 612Q1087 610 1084 639L1007 955Q1000 978 971 979L275 1028Q228 1031 229 977Z" fill="var(--illustration-fill, #8195A5)"/>
+  </g>
+  <g id="fai009-completion-badge">
+    <circle cx="948" cy="887" r="162" fill="var(--illustration-paper, #F8F8F5)"/>
+    <path d="m855 914 49 49Q923 979 942 960L1045 858Q1062 841 1047 823Q1029 805 1010 823L923 910 893 880Q874 862 857 879Q842 895 855 914Z" fill="var(--illustration-accent, #D2A852)" stroke-width="14"/>
+  </g>
+</svg>

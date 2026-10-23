@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(2.7866666667)">
+<g id="fai085-destination" >
+<path d="M114 292Q37 185 40 141Q42 55 129 55Q217 55 219 140Q219 190 174 232Z" fill="var(--illustration-fill, #8195A5)" stroke="var(--illustration-ink, currentColor)" stroke-width="5" />
+<circle cx="129" cy="140" r="43" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="5" />
+</g><g id="fai085-delivered-box" transform="translate(0 12)">
+<path d="m118 209 99-35 102 32-112 39Z" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="4" />
+<path d="m118 209 89 36v119l-88-47Z" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="4" />
+<path d="m207 245 112-39v111l-112 47Z" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="4" />
+<path d="m151 222 98-36 28 8-104 38v33l-21-8Z" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="3" />
+</g><g id="fai085-proof-of-delivery" >
+<path d="M301 233H369l35 35v112q0 10-10 10H301q-10 0-10-10V243q0-10 10-10Z" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="4" />
+<path d="M369 233v27q0 8 8 8h27Z" fill="var(--illustration-muted, #E3E9EE)" stroke="var(--illustration-ink, currentColor)" stroke-width="3" />
+</g><circle cx="320" cy="265" r="13" fill="var(--illustration-fill, #8195A5)" stroke="none" stroke-width="3" /><path d="M311 291h71" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="6" />
+<path d="M311 305h68" fill="none" stroke="var(--illustration-fill, #8195A5)" stroke-width="6" /><g id="fai085-confirmation" >
+<circle cx="365" cy="345" r="26.25" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="3" />
+<path d="M351.5 345l9.0 9.0 18.0 -20.25" fill="none" stroke="var(--illustration-ink, currentColor)" stroke-width="6.0" />
+</g>
+</g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" fill="none" style="color:#0E3B5D" stroke-linecap="round" stroke-linejoin="round">
+<g transform="scale(2.7866666667)">
+<g id="fai074-deposit-token" >
+<circle cx="115" cy="131" r="52" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="7" />
+<circle cx="115" cy="131" r="41" fill="none" stroke="var(--illustration-paper, #F8F8F5)" stroke-width="4" />
+</g><g id="fai074-wallet" >
+<path d="M174 225V212Q174 199 188 195L336 169Q355 166 359 182V236Z" fill="var(--illustration-fill, #8195A5)" stroke="var(--illustration-ink, currentColor)" stroke-width="6" />
+<path d="M177 207Q176 219 190 218L357 198V243H176Z" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="5" />
+<rect x="174" y="218" width="212" height="145" rx="20" fill="var(--illustration-fill, #8195A5)" stroke="var(--illustration-ink, currentColor)" stroke-width="7" />
+<rect x="317" y="264" width="77" height="52" rx="15" fill="var(--illustration-paper, #F8F8F5)" stroke="var(--illustration-ink, currentColor)" stroke-width="6" />
+<circle cx="343" cy="291" r="12" fill="var(--illustration-accent, #D2A852)" stroke="var(--illustration-ink, currentColor)" stroke-width="4" />
+</g><g id="fai074-incoming-arrow" >
+<path d="M181 115Q259 103 284 170L300 166 280 205 240 180 254 174Q232 127 182 136Z" fill="var(--illustration-fill, #8195A5)" stroke="var(--illustration-ink, currentColor)" stroke-width="5" />
+</g>
+</g>
+</svg>

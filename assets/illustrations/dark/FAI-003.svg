@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1448 1086" fill="none" style="color:#0E3B5D" role="img" aria-labelledby="fai003-title">
+  <title id="fai003-title">Городская платформа</title>
+  <style>
+    .fai003-ink{fill:#F2F3F1}.fai003-fill{fill:#686A6A}.fai003-muted{fill:#1C1F21}.fai003-paper{fill:#141617}.fai003-accent{fill:#FFB020}
+    .fai003-outline{stroke:#F2F3F1;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}.fai003-line{fill:none;stroke:#F2F3F1;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}
+  </style>
+  <g id="fai003-fashion-shop" class="fai003-outline">
+    <path class="fai003-paper" d="M153 280H521V727H153Z"/>
+    <rect class="fai003-fill" x="152" y="264" width="371" height="23" rx="6"/>
+    <rect class="fai003-muted" x="169" y="461" width="195" height="238"/>
+    <path class="fai003-fill" d="M154 336H480L501 413Q508 450 479 450H141Q105 450 113 415Z"/>
+    <path class="fai003-line" d="M183 336 154 415Q151 449 126 447M230 336 211 416Q207 449 182 449Q157 449 154 415M280 336 270 416Q270 449 240 449Q214 449 211 416M333 336V417Q334 449 302 449Q272 449 270 416M385 336 394 417Q395 449 364 449Q334 449 333 417M437 336 453 417Q457 449 425 449Q397 449 394 417M480 336 501 415Q507 449 480 449Q455 449 453 417"/>
+    <path class="fai003-line" d="M116 416H502"/>
+    <path class="fai003-paper" d="M377 482H464V697H377Z"/>
+    <path class="fai003-muted" d="M385 489H455V689H385Z" stroke="none"/>
+    <path class="fai003-line" d="M395 575V630" stroke-width="6"/>
+    <g id="fai003-fashion-window-display">
+      <path class="fai003-line" d="M235 464V499" stroke-width="5"/>
+      <path class="fai003-accent" d="M213 526Q214 502 235 502Q256 502 257 526Z" stroke-width="5"/>
+      <path class="fai003-fill" d="M193 618H253V695H193Z" stroke-width="5"/>
+      <path class="fai003-muted" d="M199 584H246V618H199Z" stroke-width="5"/>
+      <path class="fai003-line" d="M209 584V576Q209 564 222 564Q234 564 234 576V584" stroke-width="5"/>
+      <path class="fai003-paper" d="M304 534V528H314V534L335 545 324 582 342 651Q307 659 274 651L290 582 280 546Z" stroke-width="5"/>
+      <path class="fai003-line" d="M291 582H323M307 657V688M287 692Q308 679 328 692" stroke-width="5"/>
+      <path d="M296 529Q308 540 321 529" class="fai003-line" stroke-width="5"/>
+      <path d="M285 535 336 484" class="fai003-line" style="stroke:#141617;stroke-width:7"/>
+      <path d="M411 560 446 524" class="fai003-line" style="stroke:#141617;stroke-width:7"/>
+    </g>
+    <path class="fai003-fill" d="M104 682Q104 659 119 656Q119 631 137 635Q152 624 162 643Q178 634 189 652Q208 650 211 669Q219 670 217 683Z"/>
+    <path class="fai003-muted" d="M99 683H224V738H99Z"/>
+    <path class="fai003-muted" d="M224 703H365V732H224Z"/>
+  </g>
+  <g id="fai003-cafe" class="fai003-outline">
+    <path class="fai003-paper" d="M536 223H948V728H536Z"/>
+    <rect class="fai003-fill" x="528" y="202" width="427" height="21" rx="5"/>
+    <path class="fai003-muted" d="M538 223H946V233H538Z" stroke="none"/>
+    <path class="fai003-line" d="M560 309H922" style="stroke:#686A6A;stroke-width:5"/>
+    <g id="fai003-exterior-lamps">
+      <g transform="translate(619 258)">
+        <path class="fai003-line" d="M-7 4V-5Q-7-12 0-12Q7-12 7-5V4"/>
+        <path class="fai003-fill" d="M-17 22Q-16 4 0 4Q16 4 17 22Z"/>
+        <ellipse class="fai003-accent" cy="24" rx="14" ry="6" stroke-width="5"/>
+      </g>
+      <g transform="translate(741 258)">
+        <path class="fai003-line" d="M-7 4V-5Q-7-12 0-12Q7-12 7-5V4"/>
+        <path class="fai003-fill" d="M-17 22Q-16 4 0 4Q16 4 17 22Z"/>
+        <ellipse class="fai003-accent" cy="24" rx="14" ry="6" stroke-width="5"/>
+      </g>
+      <g transform="translate(862 258)">
+        <path class="fai003-line" d="M-7 4V-5Q-7-12 0-12Q7-12 7-5V4"/>
+        <path class="fai003-fill" d="M-17 22Q-16 4 0 4Q16 4 17 22Z"/>
+        <ellipse class="fai003-accent" cy="24" rx="14" ry="6" stroke-width="5"/>
+      </g>
+    </g>
+    <path class="fai003-muted" d="M577 430H796V604H577Z"/>
+    <path class="fai003-fill" d="M577 605H796V709H577Z"/>
+    <path class="fai003-accent" d="M577 605H796V616H577Z" stroke-width="5"/>
+    <path class="fai003-fill" d="M568 349H910L935 412H545Z"/>
+    <path class="fai003-fill" d="M545 412H935V433H545Z"/>
+    <path class="fai003-muted" d="M813 437H903V465H813Z"/>
+    <path class="fai003-muted" d="M813 483H894V696H813Z"/>
+    <path class="fai003-line" d="M824 585V632" stroke-width="5"/>
+    <path class="fai003-line" d="M603 438V505M671 437V476M742 438V476" stroke-width="5"/>
+    <path class="fai003-accent" d="M583 529Q583 508 603 508Q623 508 623 529ZM649 499Q651 478 671 478Q692 478 693 499ZM720 499Q721 478 742 478Q763 478 764 499Z" stroke-width="5"/>
+    <g id="fai003-cafe-window-plant" stroke-width="5">
+      <path class="fai003-fill" d="M642 580Q620 571 623 557Q636 553 642 580ZM643 579Q628 546 641 542Q655 552 643 579ZM646 581Q648 552 662 557Q666 570 646 581Z"/>
+      <path class="fai003-paper" d="M625 578H660L655 597H631Z"/>
+    </g>
+    <path class="fai003-line" d="M720 582 778 521M842 560 878 524" style="stroke:#141617;stroke-width:7"/>
+    <g id="fai003-cafe-stools" stroke-width="5">
+      <rect class="fai003-accent" x="623" y="631" width="50" height="13" rx="6"/>
+      <path class="fai003-line" d="M638 645 629 709M658 645 667 709M633 687H664"/>
+      <rect class="fai003-accent" x="715" y="631" width="50" height="13" rx="6"/>
+      <path class="fai003-line" d="M730 645 721 709M750 645 759 709M725 687H756"/>
+    </g>
+    <path class="fai003-muted" d="M796 708H950V732H796Z"/>
+  </g>
+  <g id="fai003-homeware-shop" class="fai003-outline">
+    <path class="fai003-paper" d="M965 337H1319V734H965Z"/>
+    <path class="fai003-fill" d="M962 249H1288V342H962Z"/>
+    <path class="fai003-line" d="M965 264H1285M965 284H1285M965 304H1285M965 324H1285" stroke-width="5"/>
+    <path class="fai003-paper" d="M962 342H1319V395H962Z"/>
+    <path class="fai003-muted" d="M989 410H1174V711H989Z"/>
+    <path class="fai003-muted" d="M1184 410H1271V455H1184Z"/>
+    <path class="fai003-muted" d="M1184 474H1271V704H1184Z"/>
+    <path class="fai003-line" d="M1200 575V630" stroke-width="5"/>
+    <path class="fai003-line" d="M1023 475 1071 428M1050 474 1097 427M1217 560 1262 515" style="stroke:#141617;stroke-width:7"/>
+    <g id="fai003-display-shelves" stroke-width="5">
+      <path class="fai003-accent" d="M1015 502H1024V694H1015ZM1135 502H1144V694H1135Z"/>
+      <path class="fai003-line" d="M1015 502H1144M1015 567H1144M1015 628H1144M1015 690H1144"/>
+      <path class="fai003-paper" d="M1043 530H1074V565H1043Z"/>
+      <path class="fai003-accent" d="M1061 530H1074V565H1061Z" stroke-width="3"/>
+      <ellipse class="fai003-fill" cx="1108" cy="552" rx="16" ry="12"/>
+      <path class="fai003-paper" d="M1097 595H1118L1116 604Q1129 624 1108 626Q1086 625 1099 604Z"/>
+      <path class="fai003-accent" d="M1083 653H1125V687H1083Z"/>
+    </g>
+    <g id="fai003-front-plant" stroke-width="5">
+      <path class="fai003-line" d="M1036 676V623"/>
+      <path class="fai003-fill" d="M1036 645Q1001 635 1002 609Q1013 587 1036 621ZM1039 645Q1041 605 1065 595Q1086 607 1063 630ZM1036 669Q1009 663 1000 644Q1010 628 1033 646ZM1040 670Q1041 646 1063 642Q1081 653 1062 665Z"/>
+      <path class="fai003-paper" d="M1013 671H1060L1053 704H1020Z"/>
+    </g>
+    <path class="fai003-muted" d="M965 712H1174V737H965ZM1282 685H1324V737H1282Z"/>
+  </g>
+  <g id="fai003-location-pin" class="fai003-outline" stroke-width="10">
+    <path class="fai003-accent" d="M508 818C484 789 427 718 426 681C424 633 460 599 507 599C555 599 592 633 591 680C590 718 534 789 508 818Z"/>
+    <circle class="fai003-paper" cx="508" cy="680" r="37"/>
+  </g>
+  <g id="fai003-listing-card" class="fai003-outline" stroke-width="10">
+    <rect class="fai003-paper" x="559" y="714" width="435" height="166" rx="36"/>
+    <rect class="fai003-muted" x="591" y="739" width="132" height="119" rx="19" stroke="none"/>
+    <g id="fai003-listing-thumbnail" stroke-width="5">
+      <path class="fai003-paper" d="M619 786H695V842H619Z"/>
+      <path class="fai003-fill" d="M620 762H694L708 790H606Z"/>
+      <path class="fai003-muted" d="M625 795H645V838H625ZM653 795H678V838H653Z"/>
+      <path class="fai003-line" d="M646 817V840"/>
+      <path class="fai003-line" d="M626 822 636 811M657 818 668 807" style="stroke:#141617"/>
+    </g>
+    <rect class="fai003-ink" x="747" y="750" width="190" height="23" rx="11.5" stroke="none"/>
+    <rect class="fai003-fill" x="747" y="789" width="139" height="20" rx="10" stroke="none"/>
+    <rect class="fai003-fill" x="747" y="824" width="96" height="18" rx="9" stroke="none"/>
+    <circle class="fai003-accent" cx="941" cy="815" r="24" stroke="none"/>
+  </g>
+</svg>

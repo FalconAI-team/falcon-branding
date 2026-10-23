@@ -1,0 +1,51 @@
+/* Screens that show one illustration in one interface context. They respond to the real viewport width. */
+html, body { margin: 0; min-height: 100%; }
+body { overflow-x: hidden; }
+#screen { min-height: 100vh; display: flex; flex-direction: column; }
+.sc-top { display: flex; align-items: center; gap: var(--fa-space-3); padding: var(--fa-space-3) var(--fa-space-5); }
+.sc-top > .fa-mark { height: 22px; color: var(--fa-color-logo); }
+.sc-top .fa-avatar .fa-mark { color: var(--fa-color-island-accent); }
+.sc-top nav { display: flex; gap: var(--fa-space-1); flex: 1; overflow: hidden; }
+.sc-top .fa-pill { white-space: nowrap; }
+.sc-body { flex: 1; padding: var(--fa-space-3) var(--fa-space-5) var(--fa-space-6); display: grid; align-content: start; gap: var(--fa-space-4); }
+.sc-center { flex: 1; display: grid; place-items: center; padding: var(--fa-space-5); }
+.sc-head { display: flex; align-items: center; justify-content: space-between; gap: var(--fa-space-3); flex-wrap: wrap; }
+.sc-head h2 { margin: 0; font: 600 var(--fa-text-title-size)/var(--fa-text-title-line) var(--fa-font-display); }
+.sc-steps { display: flex; gap: 6px; justify-content: center; }
+.sc-steps i { width: 24px; height: 6px; border-radius: var(--fa-radius-pill); background: var(--fa-color-line); }
+.sc-steps i[data-on] { background: var(--fa-color-accent); }
+.sc-code { margin: 0; font: 600 clamp(48px, 12vw, 96px)/1 var(--fa-font-display); color: var(--fa-color-text); }
+.sc-hero { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: var(--fa-space-6); align-items: center; padding: var(--fa-space-6) var(--fa-space-5); }
+.sc-hero h1 { margin: 0 0 var(--fa-space-3); font: 600 clamp(28px, 4.2vw, 48px)/1.08 var(--fa-font-display); text-wrap: balance; }
+.sc-hero p { margin: 0 0 var(--fa-space-4); max-width: 46ch; color: var(--fa-color-text-2); }
+.sc-hero .fa-illu { width: min(100%, 520px); aspect-ratio: 1; justify-self: center; }
+.sc-auth { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); min-height: 100vh; }
+.sc-auth__art { display: grid; place-items: center; padding: var(--fa-space-6); }
+.sc-auth__art .fa-illu { width: min(100%, 440px); aspect-ratio: 1; }
+.sc-auth__form { display: grid; align-content: center; gap: var(--fa-space-3); padding: var(--fa-space-6); max-width: 440px; width: 100%; margin: 0 auto; box-sizing: border-box; }
+.sc-auth__form h1 { margin: 0 0 var(--fa-space-2); font: 600 var(--fa-text-title-size)/var(--fa-text-title-line) var(--fa-font-display); }
+.sc-dim { position: relative; flex: 1; display: grid; place-items: center; padding: var(--fa-space-5); background: var(--fa-color-canvas); }
+.sc-dim::before { content: ''; position: absolute; inset: 0; background: var(--fa-color-island); opacity: 0.5; }
+.sc-dim .fa-card { position: relative; width: min(100%, 460px); box-shadow: var(--fa-shadow-overlay); border-radius: var(--fa-radius-island); }
+.sc-bg { position: absolute; inset: 0; padding: var(--fa-space-5); display: grid; gap: var(--fa-space-3); align-content: start; opacity: 0.6; }
+.sc-bg .fa-skel { height: 56px; border-radius: var(--fa-radius-md); }
+.sc-panel { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: var(--fa-space-4); align-items: stretch; }
+.sc-rows { display: grid; gap: var(--fa-space-3); align-content: start; }
+.sc-rows .fa-skel { height: 64px; border-radius: var(--fa-radius-md); }
+.sc-media { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--fa-space-4); align-items: start; }
+.sc-media .fa-card__body { padding: var(--fa-space-3) var(--fa-space-4) var(--fa-space-4); display: grid; gap: var(--fa-space-1); }
+.sc-note { display: flex; flex-wrap: wrap; gap: var(--fa-space-2); align-items: center; }
+.sc-product { display: flex; align-items: center; gap: var(--fa-space-2); color: var(--fa-color-text-2); font: 500 var(--fa-text-caption-size)/var(--fa-text-caption-line) var(--fa-font-sans); }
+
+@media (max-width: 900px) {
+  .sc-hero, .sc-auth, .sc-panel { grid-template-columns: minmax(0, 1fr); }
+  .sc-hero { padding: var(--fa-space-4); gap: var(--fa-space-4); }
+  .sc-hero .fa-illu { width: min(70%, 320px); order: -1; }
+  .sc-auth { min-height: 0; }
+  .sc-auth__art { padding: var(--fa-space-4); }
+  .sc-auth__art .fa-illu { width: min(54%, 220px); }
+  .sc-auth__form { padding: var(--fa-space-4) var(--fa-space-4) var(--fa-space-6); }
+  .sc-media { grid-template-columns: minmax(0, 1fr); }
+  .sc-top, .sc-body { padding-inline: var(--fa-space-4); }
+  .sc-top nav { display: none; }
+}

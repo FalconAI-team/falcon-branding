@@ -1,0 +1,14 @@
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Local tooling output
+.playwright-mcp/
+*.log
+*.tmp

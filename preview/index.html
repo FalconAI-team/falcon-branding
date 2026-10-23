@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Falcon Design System</title>
+<link rel="stylesheet" href="../dist/css/falcon.css">
+<link rel="stylesheet" href="app.css">
+<link rel="icon" href="data:,">
+</head>
+<body class="fa-app">
+
+<div class="fa-shell" id="shell">
+  <aside class="fa-sidebar" id="sidebar" aria-label="Разделы дизайн-системы">
+    <div class="fa-sidebar__head">
+      <a class="fa-brand" href="#/overview" aria-label="Falcon AI, на главную">
+        <span class="fa-lockup" role="img" aria-label="Falcon AI"></span>
+        <span class="fa-mark" role="img" aria-label="Falcon AI"></span>
+      </a>
+    </div>
+    <nav class="fa-nav" id="nav" aria-label="Разделы"></nav>
+    <div class="fa-sidebar__falcon" aria-hidden="true"><img src="../assets/falcon/falcon-sidebar.webp" alt="" draggable="false"></div>
+    <div class="fa-sidebar__foot">
+      <button class="fa-btn fa-btn--ghost fa-btn--icon fa-btn--sm fa-tip fa-tip--right" id="collapse" data-tip="Свернуть панель" aria-label="Свернуть панель" aria-expanded="true"></button>
+    </div>
+  </aside>
+
+  <main class="fa-main">
+    <header class="fa-toolbar">
+      <button class="fa-btn fa-btn--outline fa-btn--icon fa-btn--sm fa-menu-btn" id="menu" aria-label="Открыть разделы"></button>
+      <div class="fa-toolbar__grow"><h1 class="fa-t-title pv-crumb" id="crumb">Falcon Design System</h1></div>
+      <button class="fa-btn fa-btn--outline fa-btn--sm pv-search" id="open-palette" aria-label="Поиск по разделам">
+        <span class="pv-ico" data-icon="search"></span><span class="pv-hide-sm">Перейти</span><kbd class="pv-kbd">Ctrl K</kbd>
+      </button>
+      <div class="fa-seg pv-size" id="size" style="--n:3;--i:1" role="group" aria-label="Размер карточек">
+        <button data-scale="0.8" aria-pressed="false" class="fa-tip fa-tip--below" data-tip="Мелкие карточки" aria-label="Мелкие карточки">S</button>
+        <button data-scale="1" aria-pressed="true" class="fa-tip fa-tip--below" data-tip="Средние карточки" aria-label="Средние карточки">M</button>
+        <button data-scale="1.45" aria-pressed="false" class="fa-tip fa-tip--below" data-tip="Крупные карточки" aria-label="Крупные карточки">L</button>
+      </div>
+      <div class="fa-seg pv-theme" id="theme" style="--n:3;--i:0" role="group" aria-label="Тема">
+        <button data-theme-set="auto" aria-pressed="true" class="fa-tip fa-tip--below" data-tip="Как в системе" aria-label="Тема как в системе"><span class="pv-ico" data-icon="monitor"></span></button>
+        <button data-theme-set="light" aria-pressed="false" class="fa-tip fa-tip--below" data-tip="Светлая" aria-label="Светлая тема"><span class="pv-ico" data-icon="sun"></span></button>
+        <button data-theme-set="dark" aria-pressed="false" class="fa-tip fa-tip--below" data-tip="Тёмная" aria-label="Тёмная тема"><span class="pv-ico" data-icon="moon"></span></button>
+      </div>
+    </header>
+    <div class="fa-page" id="page" tabindex="-1"></div>
+  </main>
+</div>
+
+<div class="fa-toasts" id="toasts" role="status" aria-live="polite"></div>
+
+<dialog id="palette" class="pv-palette" aria-label="Перейти к разделу">
+  <div class="fa-card pv-palette__box">
+    <input class="fa-input" id="palette-q" placeholder="Раздел, компонент, токен..." aria-label="Поиск" autocomplete="off">
+    <div class="pv-palette__list" id="palette-list" role="listbox"></div>
+  </div>
+</dialog>
+
+<script src="../dist/js/falcon-tooltip.js"></script>
+<script src="../dist/js/falcon-sheet.js"></script>
+<script src="../dist/js/falcon-select.js"></script>
+<script src="illu.js"></script>
+<script src="app.js"></script>
+<script src="pages2.js"></script>
+</body>
+</html>
