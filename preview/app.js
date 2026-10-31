@@ -567,6 +567,7 @@ function setCollapsed(v) {
   store.set('fa-collapsed', v ? '1' : '0');
 }
 function setProduct(v) {
+  if (!ACCENTS.some(([k]) => k === v)) v = '';  // a removed product left in localStorage
   product = v; const r = document.documentElement; if (v) r.setAttribute('data-product', v); else r.removeAttribute('data-product');
   $('#accent').value = v; store.set('fa-product', v); if (flat) route();
 }
