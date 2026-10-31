@@ -97,6 +97,42 @@
         "accent-border": "#D9B46A",
         "island-accent": "#D9B46A"
       }
+    },
+    "gold-v2": {
+      "light": {
+        "accent": "#E3AE24",
+        "accent-hover": "#EDBE45",
+        "accent-press": "#C9961A",
+        "on-accent": "#1A1404",
+        "accent-border": "#7E5A00",
+        "island-accent": "#EDBE45"
+      },
+      "dark": {
+        "accent": "#EDBE45",
+        "accent-hover": "#F4CC65",
+        "accent-press": "#D6A630",
+        "on-accent": "#1A1404",
+        "accent-border": "#EDBE45",
+        "island-accent": "#EDBE45"
+      }
+    },
+    "sun-v2": {
+      "light": {
+        "accent": "#F7C531",
+        "accent-hover": "#FBD35A",
+        "accent-press": "#DDAD1C",
+        "on-accent": "#1A1404",
+        "accent-border": "#7A5A00",
+        "island-accent": "#FBD35A"
+      },
+      "dark": {
+        "accent": "#FBD35A",
+        "accent-hover": "#FDDF80",
+        "accent-press": "#E7B930",
+        "on-accent": "#1A1404",
+        "accent-border": "#FBD35A",
+        "island-accent": "#FBD35A"
+      }
     }
   },
   "text": {

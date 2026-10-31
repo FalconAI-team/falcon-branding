@@ -150,7 +150,7 @@ const ROLE = {
 };
 const PAIR = { canvas: 'text', card: 'text', inset: 'text', 'line-strong': 'card', text: 'canvas', 'text-2': 'card', link: 'card', focus: 'card', logo: 'card', accent: 'on-accent', 'accent-hover': 'on-accent', 'accent-press': 'on-accent', 'on-accent': 'accent', 'accent-border': 'card', success: 'card', warning: 'card', danger: 'card', info: 'card', 'danger-solid': 'on-danger', 'on-danger': 'danger-solid', island: 'island-text', 'island-raised': 'island-text', 'island-text': 'island', 'island-text-2': 'island', 'island-accent': 'island' };
 function colorCard(k, th, both) {
-  const c = flat.color[th], p = PAIR[k], r = p ? ratio(c[k], c[p]) : null;
+  const c = { ...flat.color[th], ...(flat.products[product]?.[th] || {}) }, p = PAIR[k], r = p ? ratio(c[k], c[p]) : null;
   const pill = r ? `<span class="fa-badge fa-badge--plain fa-tip fa-tip--end" data-tip="Контраст с ${p}">${r.toFixed(1)}:1</span>` : '';
   const lk = (bg, fg) => `<span class="fa-lockup" role="img" aria-label="Логотип" style="width:78%;height:auto;color:${fg}"></span>`;
   const sw = k === 'logo'
@@ -421,6 +421,7 @@ function pLoading() {
 
 /* ---------- page: falcon ---------- */
 let minW = 192, product = '';
+const ACCENTS = [['', 'Янтарь'], ['gold', 'Золото'], ['gold-v2', 'v2 Золото'], ['sun-v2', 'v2 Солнечное']];
 function pFalcon(sub = 'logo') {
   let body = '', after = () => {};
   if (sub === 'logo') body = `<div class="pv-grid" style="--min:260px">${[['light', 'На светлом: navy'], ['island', 'На тёмном: белый'], ['gold', 'Янтарь на тёмном'], ['accent', 'Тёмный на янтаре']].map(([k, n]) => `<figure class="pv-fig"><div class="pv-surface pv-surface--${k}"><span class="fa-lockup" role="img" aria-label="Falcon AI"></span></div><figcaption><span class="fa-t-caption">${n}</span></figcaption></figure>`).join('')}
@@ -505,8 +506,8 @@ node scripts/build.mjs
   dist/contrast.json         сборка падает при ошибке`,
 };
 function pInstall(sub = 'html') {
-  if (sub === 'open') return { after(root) { bindSeg(root, 'prod', (v) => { product = v; document.documentElement.toggleAttribute('data-product', !!v); if (v) document.documentElement.setAttribute('data-product', v); }); }, html: `${head(pills(P('install').sub, sub, 'install'))}<div class="pv-grid pv-enter" style="--min:300px">
-    <article class="fa-card pv-stack" style="--i:0"><b class="fa-card__title">Янтарь или золото</b>${(() => { const th = curTheme(), g = flat.color[th], am = flat.products.gold[th]; return `<div class="pv-row"><div class="fa-swatch" style="background:${g.accent};width:130px"><span class="fa-badge fa-badge--plain">янтарь ${g.accent}</span></div><div class="fa-swatch" style="background:${am.accent};width:130px"><span class="fa-badge fa-badge--plain">золото ${am.accent}</span></div></div>`; })()}<div class="pv-row"><span class="pv-label">Весь брендбук</span>${seg('prod', [['', 'Янтарь'], ['gold', 'Золото']], product)}</div><span class="fa-card__sub">Основной акцент янтарь, как в Agents и Vitrino. Золото брендбука осталось как product.gold для сравнения: один блок токенов, контраст проверяется сборкой.</span></article>
+  if (sub === 'open') return { html: `${head(pills(P('install').sub, sub, 'install'))}<div class="pv-grid pv-enter" style="--min:300px">
+    <article class="fa-card pv-stack" style="--i:0"><b class="fa-card__title">Акцент: янтарь, золото, v2</b>${(() => { const th = curTheme(), g = flat.color[th], hex = (v) => (v ? flat.products[v][th] : g).accent; return `<div class="pv-row">${ACCENTS.map(([v, l]) => `<div class="fa-swatch" style="background:${hex(v)};width:170px"><span class="fa-badge fa-badge--plain">${l.toLowerCase()} ${hex(v)}</span></div>`).join('')}</div>`; })()}<span class="fa-card__sub">Основной акцент янтарь, как в Agents и Vitrino. Золото брендбука (product.gold) и два варианта v2 (product.gold-v2, product.sun-v2) для сравнения: один блок токенов, контраст проверяется сборкой. Весь брендбук переключается селектом акцента в верхней панели.</span></article>
     ${[['Знак 16-32 px', 'Нужна упрощённая версия от дизайнера, иконки приложений тоже.'], ['Шрифты для Flutter', 'Нужны TTF: woff2 из fonts/ надо конвертировать.'], ['Что дальше', 'React-обёртки, диалоги, графики, мобильные паттерны.']].map(([t, d], i) => `<article class="fa-card pv-stack" style="--i:${i + 1}"><b class="fa-card__title">${t}</b><span class="fa-card__sub">${d}</span></article>`).join('')}</div>` };
   return { html: `${head(pills(P('install').sub, sub, 'install'))}<div class="pv-enter"><div style="--i:0">${code(SNIP[sub])}</div></div>`,
     after(root) { $('[data-copy-code]', root).addEventListener('click', (e) => { flashMorph(e.currentTarget); copyText(SNIP[sub], 'Код скопирован'); }); } };
@@ -565,6 +566,10 @@ function setCollapsed(v) {
   $$('#nav .fa-nav-item').forEach((a) => { a.removeAttribute('title'); if (v) { a.dataset.tip = a.textContent.trim(); a.dataset.tipSide = 'right'; } else { delete a.dataset.tip; delete a.dataset.tipSide; } });
   store.set('fa-collapsed', v ? '1' : '0');
 }
+function setProduct(v) {
+  product = v; const r = document.documentElement; if (v) r.setAttribute('data-product', v); else r.removeAttribute('data-product');
+  $('#accent').value = v; store.set('fa-product', v); if (flat) route();
+}
 function setTheme(m) {
   const r = document.documentElement; if (m === 'auto') r.removeAttribute('data-theme'); else r.setAttribute('data-theme', m);
   const el = $('#theme'); $$('button', el).forEach((b, i) => { const on = b.dataset.themeSet === m; b.setAttribute('aria-pressed', String(on)); if (on) el.style.setProperty('--i', i); });
@@ -611,6 +616,8 @@ async function init() {
   const setScale = (v) => { $('#page').style.setProperty('--pv-scale', v); $('#page').style.setProperty('--pv-zoom', ZOOM[v] ?? 1); const b = $$('#size button'); b.forEach((x, i) => { const on = x.dataset.scale === String(v); x.setAttribute('aria-pressed', String(on)); if (on) $('#size').style.setProperty('--i', i); }); store.set('fa-scale', String(v)); };
   $$('#size button').forEach((b) => b.addEventListener('click', () => setScale(b.dataset.scale)));
   setScale(store.get('fa-scale', '1'));
+  $('#accent').addEventListener('change', (e) => setProduct(e.target.value));
+  setProduct(store.get('fa-product', ''));
   matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (!document.documentElement.dataset.theme) route(); });
   document.addEventListener('click', (e) => {
     const c = e.target.closest('[data-copy-code]'); if (c) return;
