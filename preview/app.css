@@ -137,6 +137,8 @@ dialog.pv-palette::backdrop { background: color-mix(in srgb, var(--fa-color-isla
 
 .pv-prop > i + i { box-shadow: inset 1px 0 0 var(--fa-color-line-strong); }
 
+.fa-selectx:has(.pv-accent) { width: auto; flex: none; }
+.fa-selectx:has(.pv-accent) .fa-select-btn { min-height: var(--fa-size-control-sm); }
 @media (max-width: 560px) { .pv-size { display: none; } }
 
 /* Bento gallery: 12 columns, each card spans by meaning, a row shares one height. */

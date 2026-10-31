@@ -245,3 +245,57 @@
   --fa-color-accent-border: #D9B46A;
   --fa-color-island-accent: #D9B46A;
 }
+
+[data-product="gold-v2"] {
+  --fa-color-accent: #E3AE24;
+  --fa-color-accent-hover: #EDBE45;
+  --fa-color-accent-press: #C9961A;
+  --fa-color-on-accent: #1A1404;
+  --fa-color-accent-border: #7E5A00;
+  --fa-color-island-accent: #EDBE45;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) [data-product="gold-v2"], [data-product="gold-v2"]:not([data-theme="light"]) {
+    --fa-color-accent: #EDBE45;
+    --fa-color-accent-hover: #F4CC65;
+    --fa-color-accent-press: #D6A630;
+    --fa-color-on-accent: #1A1404;
+    --fa-color-accent-border: #EDBE45;
+    --fa-color-island-accent: #EDBE45;
+  }
+}
+[data-theme="dark"] [data-product="gold-v2"], [data-theme="dark"][data-product="gold-v2"] {
+  --fa-color-accent: #EDBE45;
+  --fa-color-accent-hover: #F4CC65;
+  --fa-color-accent-press: #D6A630;
+  --fa-color-on-accent: #1A1404;
+  --fa-color-accent-border: #EDBE45;
+  --fa-color-island-accent: #EDBE45;
+}
+
+[data-product="sun-v2"] {
+  --fa-color-accent: #F7C531;
+  --fa-color-accent-hover: #FBD35A;
+  --fa-color-accent-press: #DDAD1C;
+  --fa-color-on-accent: #1A1404;
+  --fa-color-accent-border: #7A5A00;
+  --fa-color-island-accent: #FBD35A;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) [data-product="sun-v2"], [data-product="sun-v2"]:not([data-theme="light"]) {
+    --fa-color-accent: #FBD35A;
+    --fa-color-accent-hover: #FDDF80;
+    --fa-color-accent-press: #E7B930;
+    --fa-color-on-accent: #1A1404;
+    --fa-color-accent-border: #FBD35A;
+    --fa-color-island-accent: #FBD35A;
+  }
+}
+[data-theme="dark"] [data-product="sun-v2"], [data-theme="dark"][data-product="sun-v2"] {
+  --fa-color-accent: #FBD35A;
+  --fa-color-accent-hover: #FDDF80;
+  --fa-color-accent-press: #E7B930;
+  --fa-color-on-accent: #1A1404;
+  --fa-color-accent-border: #FBD35A;
+  --fa-color-island-accent: #FBD35A;
+}
