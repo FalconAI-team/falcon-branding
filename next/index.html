@@ -1,0 +1,477 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Falcon Brand System 0.3 — черновик по мотивам Falcon Journal</title>
+<meta name="description" content="Следующая версия брендбука Falcon: бумага и чернила, антиква в заголовках, один голосовой акцент. Черновик на согласование.">
+<link rel="preload" href="fonts/source-serif-4/SourceSerif4Variable-Roman.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="next.css">
+<script src="next.js"></script>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="utility">
+      <span class="label label--muted"><span class="dot"></span>Черновик 0.3 · на согласовании</span>
+      <div class="utility__right">
+        <a class="label label--muted" href="../preview/">Действующая система 0.2</a>
+        <div class="theme" role="group" aria-label="Тема">
+          <button type="button" data-set-theme="light" aria-pressed="false">Светлая</button>
+          <button type="button" data-set-theme="dark" aria-pressed="false">Тёмная</button>
+          <button type="button" data-set-theme="auto" aria-pressed="true">Авто</button>
+        </div>
+      </div>
+    </div>
+    <div class="masthead">
+      <div class="masthead__side"><span class="logo logo--lockup" style="width:150px" role="img" aria-label="Falcon AI"></span></div>
+      <h1 class="masthead__title">Falcon <em>Brand</em></h1>
+      <div class="masthead__side"><span class="label label--muted">Версия 0.3 · ноябрь 2026</span></div>
+    </div>
+    <p class="tagline label label--muted">Система бренда · по мотивам Falcon Journal</p>
+    <nav class="nav label" aria-label="Разделы">
+      <a href="#principles">Принципы</a>
+      <a href="#logo">Логотип</a>
+      <a href="#color">Цвет</a>
+      <a href="#type">Типографика</a>
+      <a href="#grid">Сетка</a>
+      <a href="#imagery">Иллюстрации и фото</a>
+      <a href="#voice">Голос и тон</a>
+      <a href="#use">Применение</a>
+      <a href="#journal">Что взято из журнала</a>
+      <a href="#licenses">Лицензии</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="cover" style="margin-top:var(--s6)">
+      <div class="cover__copy">
+        <span class="label label--voice">Главное</span>
+        <h2 class="display">Бренд, который читают, <em>а не пролистывают.</em></h2>
+        <p class="lead">Falcon Journal показал, что нам идёт спокойная редакционная подача: бумага, чернила, крупная антиква и один цвет для голоса. Здесь это переложено на продукты и интерфейсы.</p>
+        <a class="btn btn--voice" href="#journal">Что именно взято</a>
+        <p class="small">Черновик. Действующую систему 0.2 и продукты он не меняет, пока Юрий не решит.</p>
+      </div>
+      <figure class="figure">
+        <img src="img/cover.webp" width="1400" height="933" alt="Хромированная скульптура лица в тёплом дневном свете">
+        <figcaption><span>Иллюстрация Falcon Journal, создана ИИ. Условная скульптура, не реальный продукт и не портрет человека.</span><span class="mono">3:2</span></figcaption>
+      </figure>
+    </section>
+
+    <!-- ПРИНЦИПЫ -->
+    <section class="section" id="principles">
+      <div class="section__head">
+        <span class="label">Принципы</span>
+        <div>
+          <h2 class="h1">Четыре правила, по которым принимается любое решение</h2>
+        </div>
+      </div>
+      <div class="cols">
+        <div class="span-3 principle"><h3 class="h2">Сначала текст</h3><p class="body">Страница начинается с одной мысли, набранной крупно. Картинка и кнопка идут следом. Если мысль не помещается в заголовок, её ещё нет.</p></div>
+        <div class="span-3 principle"><h3 class="h2">Один голос</h3><p class="body">Бордовый говорит от имени Falcon: главная кнопка, ключевая строка, цитата. На экране он один. Янтарь остаётся сигналом: глаз сокола и то, что происходит прямо сейчас.</p></div>
+        <div class="span-3 principle"><h3 class="h2">Линия вместо коробки</h3><p class="body">Блоки разделяет тонкая линия и воздух. Рамка, тень и заливка нужны только там, где элемент можно нажать или где лежат данные.</p></div>
+        <div class="span-3 principle"><h3 class="h2">Честная подпись</h3><p class="body">У каждого изображения подпись: что это и откуда. Работу ИИ называем работой ИИ, макет называем макетом.</p></div>
+      </div>
+    </section>
+
+    <!-- ЛОГОТИП -->
+    <section class="section" id="logo">
+      <div class="section__head">
+        <span class="label">Логотип</span>
+        <div>
+          <h2 class="h1">Знак прежний. Меняется то, на чём он стоит</h2>
+          <p class="lead">Сокол и надпись Falcon AI остаются как в версии 0.2. Новое: три разрешённых фона и одно правило про поля.</p>
+        </div>
+      </div>
+      <div class="cols">
+        <div class="span-6">
+          <div class="plate"><div class="clearspace"><span class="logo logo--lockup" style="width:calc(var(--x)*7.934)" role="img" aria-label="Falcon AI"></span></div><span class="plate__cap">Охранное поле</span></div>
+          <p class="small" style="margin-top:10px">Поле со всех сторон равно x, высоте знака. В него не заходят текст, край макета и другие знаки. Минимальная ширина: 96 px на экране, 24 мм в печати; меньше ставим только знак.</p>
+        </div>
+        <div class="span-6">
+          <div class="cols" style="gap:var(--col-gap)">
+            <div class="span-6"><div class="plate plate--paper" style="min-height:108px;padding:var(--s5)"><span class="logo logo--lockup" style="width:150px"></span></div><p class="small" style="margin-top:8px">Чернила на бумаге. Основной вариант.</p></div>
+            <div class="span-6"><div class="plate plate--ink" style="min-height:108px;padding:var(--s5)"><span class="logo logo--lockup" style="width:150px"></span></div><p class="small" style="margin-top:8px">Бумага на чернилах.</p></div>
+            <div class="span-6"><div class="plate plate--voice" style="min-height:108px;padding:var(--s5)"><span class="logo logo--lockup" style="width:150px"></span></div><p class="small" style="margin-top:8px">Бумага на бордовом: обложки, аватар.</p></div>
+            <div class="span-6"><div class="plate plate--photo" style="min-height:108px;padding:var(--s5)"><span class="logo logo--lockup" style="width:150px"></span></div><p class="small" style="margin-top:8px">На фото только поверх затемнения 60%.</p></div>
+          </div>
+        </div>
+      </div>
+      <div class="misuse" style="margin-top:var(--s7)">
+        <div><div class="plate plate--paper strike"><span class="logo logo--lockup" style="width:130px;color:#6D1D2B"></span></div><p class="small">Не красим знак в бордовый или янтарь.</p></div>
+        <div><div class="plate plate--paper strike"><span class="logo logo--lockup" style="width:104px;transform:scale(1.1,2.2)"></span></div><p class="small">Не растягиваем и не сжимаем.</p></div>
+        <div><div class="plate strike" style="background:#FFB020"><span class="logo logo--lockup" style="width:130px;color:#FFFDF8"></span></div><p class="small">Не ставим на янтарь и на пёстрый фон.</p></div>
+        <div><div class="plate plate--paper strike"><span style="font:400 26px var(--serif);white-space:nowrap">Falcon AI</span></div><p class="small">Не набираем название шрифтом вместо знака.</p></div>
+      </div>
+    </section>
+
+    <!-- ЦВЕТ -->
+    <section class="section" id="color">
+      <div class="section__head">
+        <span class="label">Цвет</span>
+        <div>
+          <h2 class="h1">Бумага, чернила и один бордовый</h2>
+          <p class="lead">Палитра журнала почти без изменений, плюс тёмная тема, которой у журнала нет. Янтарь из версии 0.2 не исчезает, но перестаёт быть главным.</p>
+        </div>
+      </div>
+      <div class="swatches">
+        <div class="swatch"><div class="swatch__chip" style="background:#F6F3EC;color:#1E1F1C">#F6F3EC</div><div class="swatch__meta"><b>Бумага</b><span class="small">Фон страниц и экранов</span></div></div>
+        <div class="swatch"><div class="swatch__chip" style="background:#FFFDF8;color:#1E1F1C">#FFFDF8</div><div class="swatch__meta"><b>Лист</b><span class="small">Карточки, поля, письма</span></div></div>
+        <div class="swatch"><div class="swatch__chip" style="background:#1E1F1C;color:#FFFDF8">#1E1F1C</div><div class="swatch__meta"><b>Чернила</b><span class="small">Текст, линии, знак</span></div></div>
+        <div class="swatch"><div class="swatch__chip" style="background:#6D1D2B;color:#FFFDF8">#6D1D2B</div><div class="swatch__meta"><b>Бордовый</b><span class="small">Голос: главное действие, акцент в заголовке</span></div></div>
+        <div class="swatch"><div class="swatch__chip" style="background:#EDE7DD;color:#1E1F1C">#EDE7DD</div><div class="swatch__meta"><b>Тон</b><span class="small">Цитата, боковая панель</span></div></div>
+        <div class="swatch"><div class="swatch__chip" style="background:#D8D4CA;color:#1E1F1C">#D8D4CA</div><div class="swatch__meta"><b>Линия</b><span class="small">Разделители, рамки полей</span></div></div>
+        <div class="swatch"><div class="swatch__chip" style="background:#65645D;color:#FFFDF8">#65645D</div><div class="swatch__meta"><b>Серый текст</b><span class="small">Подписи, вторичное</span></div></div>
+        <div class="swatch"><div class="swatch__chip" style="background:#FFB020;color:#1E1F1C">#FFB020</div><div class="swatch__meta"><b>Янтарь</b><span class="small">Сигнал: «идёт сейчас», глаз сокола</span></div></div>
+      </div>
+
+      <div class="cols" style="margin-top:var(--s7)">
+        <div class="span-6 stack">
+          <h3 class="h2">Доли на экране</h3>
+          <div class="share" role="img" aria-label="Бумага 70%, чернила 20%, тон 6%, бордовый 3%, янтарь 1%">
+            <i style="width:70%;background:#F6F3EC"></i><i style="width:20%;background:#1E1F1C"></i><i style="width:6%;background:#EDE7DD"></i><i style="width:3%;background:#6D1D2B"></i><i style="width:1%;background:#FFB020"></i>
+          </div>
+          <p class="body">Бумага 70%, чернила 20%, тон 6%, бордовый 3%, янтарь не больше 1%. Если бордового на экране больше одной кнопки и одной строки, акцент перестаёт работать.</p>
+        </div>
+        <div class="span-6 stack">
+          <h3 class="h2">Тёмная тема</h3>
+          <div class="swatches" style="grid-template-columns:repeat(4,minmax(0,1fr));gap:0">
+            <div class="swatch__chip" style="background:#151412;color:#EDE8DE;height:88px">#151412</div>
+            <div class="swatch__chip" style="background:#1F1D1A;color:#EDE8DE;height:88px">#1F1D1A</div>
+            <div class="swatch__chip" style="background:#8E2B3C;color:#FFFDF8;height:88px">#8E2B3C</div>
+            <div class="swatch__chip" style="background:#E3A3AB;color:#151412;height:88px">#E3A3AB</div>
+          </div>
+          <p class="body">Ночь, приподнятый лист, бордовый для кнопок и розовый для акцентного текста: бордовый #6D1D2B на тёмном не читается. Переключатель темы — в шапке.</p>
+        </div>
+      </div>
+
+      <div style="margin-top:var(--s7)">
+        <h3 class="h2" style="margin-bottom:var(--s4)">Контраст (WCAG 2.1)</h3>
+        <div class="ratio"><span>Чернила на бумаге</span><b class="mono num">14,9 : 1</b><span class="small">Любой текст</span></div>
+        <div class="ratio"><span>Бордовый на бумаге</span><b class="mono num">10,2 : 1</b><span class="small">Любой текст, ссылки</span></div>
+        <div class="ratio"><span>Лист на бордовом</span><b class="mono num">11,1 : 1</b><span class="small">Подпись главной кнопки</span></div>
+        <div class="ratio"><span>Серый текст на бумаге</span><b class="mono num">5,4 : 1</b><span class="small">Подписи; на «тоне» 4,8 : 1</span></div>
+        <div class="ratio"><span>Янтарь на бумаге</span><b class="mono num">1,7 : 1</b><span class="small">Текстом не набираем никогда; только пятно со словом рядом</span></div>
+        <div class="ratio"><span>Светлый текст на ночи</span><b class="mono num">15,1 : 1</b><span class="small">Любой текст в тёмной теме</span></div>
+        <div class="ratio"><span>Розовый на ночи</span><b class="mono num">8,9 : 1</b><span class="small">Акцентный текст в тёмной теме</span></div>
+      </div>
+    </section>
+
+    <!-- ТИПОГРАФИКА -->
+    <section class="section" id="type">
+      <div class="section__head">
+        <span class="label">Типографика</span>
+        <div>
+          <h2 class="h1">Антиква для мысли, гротеск для работы</h2>
+          <p class="lead">Журнал набран Georgia и Arial: системные шрифты, в продуктах они выглядят случайно. Берём приём, а шрифты ставим свои, с кириллицей и открытой лицензией.</p>
+        </div>
+      </div>
+      <div class="cols" style="margin-bottom:var(--s7)">
+        <div class="span-6 stack"><span class="label label--muted">Заголовки и чтение</span><p class="glyphs">Source Serif 4<br>АаБбВвГгДдЕеЖж <em>курсив</em><br>0123456789 № « » — ў қ ғ ҳ</p><p class="small">Вариативный, оптические размеры 8–60, кириллица, включая узбекскую. SIL OFL 1.1.</p></div>
+        <div class="span-6 stack"><span class="label label--muted">Интерфейс, подписи, данные</span><p class="glyphs" style="font-family:var(--sans)">IBM Plex Sans<br>АаБбВвГгДдЕеЖж<br><span style="font-family:var(--mono)">IBM Plex Mono 0123</span></p><p class="small">Как в версии 0.2, файлы те же. SIL OFL 1.1.</p></div>
+      </div>
+
+      <div class="spec"><span class="small">Витрина<br><span class="mono">Serif 400 · 40–84 / 1,02 · −2,8%</span></span><p class="display">Работа, которую видно</p></div>
+      <div class="spec"><span class="small">Заголовок 1<br><span class="mono">Serif 400 · 32–52 / 1,08 · −2,2%</span></span><p class="h1">Каждый сотрудник получает своё рабочее место за минуту</p></div>
+      <div class="spec"><span class="small">Заголовок 2<br><span class="mono">Serif 400 · 24–32 / 1,18</span></span><p class="h2">Отчёт за день приходит в 19:00</p></div>
+      <div class="spec"><span class="small">Вводка<br><span class="mono">Serif 400 · 18–21 / 1,5</span></span><p class="lead">Вводка пересказывает материал двумя предложениями. Её читают все, остальное читают те, кому надо.</p></div>
+      <div class="spec"><span class="small">Основной текст<br><span class="mono">Sans 400 · 16 / 1,65 · до 68 знаков</span></span><p class="body">В интерфейсе и на сайте основной текст набран гротеском: он ровнее в мелком кегле и в таблицах. В длинных статьях (от трёх экранов) основной текст можно набрать антиквой 18 / 1,7.</p></div>
+      <div class="spec"><span class="small">Заголовок интерфейса<br><span class="mono">Sans 600 · 17 / 1,35</span></span><p class="h3">Настройки уведомлений</p></div>
+      <div class="spec"><span class="small">Рубрика<br><span class="mono">Sans 600 · 11 / 1,3 · +14% · прописные</span></span><p class="label label--voice">Искусственный интеллект</p></div>
+      <div class="spec"><span class="small">Данные<br><span class="mono">Mono 400–500 · табличные цифры</span></span><p class="mono num" style="font-size:16px">1 284,50 $ · 12.11.2026 · app_f524c3 · 99,98%</p></div>
+
+      <div class="cols" style="margin-top:var(--s7)">
+        <div class="span-6 stack">
+          <h3 class="h2">Курсив с цветом — один раз</h3>
+          <p class="body">Приём журнала: последняя строка заголовка курсивом и бордовым. Он работает, пока редок. Разрешён в одном заголовке на страницу, на обложке слайда и в посте. В интерфейсе продукта не используется.</p>
+        </div>
+        <div class="span-6 stack">
+          <h3 class="h2">Рубрика — тоже один раз</h3>
+          <p class="body">Мелкие прописные с разрядкой называют раздел, к которому относится блок. Над каждым заголовком их не ставим: рубрика без смысла превращается в украшение. Прописными длиннее трёх слов не набираем.</p>
+        </div>
+        <div class="span-6 stack">
+          <h3 class="h2">Мелочи набора</h3>
+          <p class="body">Кавычки «ёлочки», внутри „лапки“. Тире длинное с пробелами, в диапазонах короткое без пробелов: 9–18. Цифры в таблицах табличные. Неразрывный пробел после предлогов и перед единицами: 12&nbsp;ГБ.</p>
+        </div>
+        <div class="span-6 stack">
+          <h3 class="h2">Tektur</h3>
+          <p class="body">Шрифт заголовков версии 0.2 в новой версии из заголовков уходит. Остаётся в уже выпущенных продуктах до их перевода. Это предложение, решение за Юрием.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- СЕТКА -->
+    <section class="section" id="grid">
+      <div class="section__head">
+        <span class="label">Сетка и ритм</span>
+        <div>
+          <h2 class="h1">Двенадцать колонок, шаг четыре, много воздуха</h2>
+          <p class="lead">Журнал держится на асимметрии: узкая колонка текста рядом с широкой картинкой. Это переносится на сайт и презентации. В интерфейсе сетка прежняя.</p>
+        </div>
+      </div>
+      <div class="gridshow" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+      <p class="small" style="margin:10px 0 var(--s6)">1440: 12 колонок, поля 48, промежуток 24, ширина контента до 1320. 768: 8 колонок, поля 28. 390: 4 колонки, поля 20, промежуток 16.</p>
+      <div class="cols">
+        <div class="span-5" style="background:var(--tint);padding:14px 12px"><span class="mono small">5 — текст</span></div>
+        <div class="span-7" style="background:var(--tint);padding:14px 12px"><span class="mono small">7 — изображение (обложка)</span></div>
+        <div class="span-3" style="background:var(--tint);padding:14px 12px"><span class="mono small">3 — рубрика</span></div>
+        <div class="span-9" style="background:var(--tint);padding:14px 12px"><span class="mono small">9 — заголовок и содержание раздела</span></div>
+        <div class="span-4" style="background:var(--tint);padding:14px 12px"><span class="mono small">4</span></div>
+        <div class="span-4" style="background:var(--tint);padding:14px 12px"><span class="mono small">4 — три карточки материалов</span></div>
+        <div class="span-4" style="background:var(--tint);padding:14px 12px"><span class="mono small">4</span></div>
+      </div>
+      <div class="cols" style="margin-top:var(--s7)">
+        <div class="span-6 stack">
+          <h3 class="h2">Отступы</h3>
+          <div class="scale">
+            <div style="--v:4px"><i></i><span class="mono small">4</span></div>
+            <div style="--v:8px"><i></i><span class="mono small">8</span></div>
+            <div style="--v:12px"><i></i><span class="mono small">12</span></div>
+            <div style="--v:16px"><i></i><span class="mono small">16</span></div>
+            <div style="--v:24px"><i></i><span class="mono small">24</span></div>
+            <div style="--v:32px"><i></i><span class="mono small">32</span></div>
+            <div style="--v:48px"><i></i><span class="mono small">48</span></div>
+            <div style="--v:72px"><i></i><span class="mono small">72</span></div>
+          </div>
+          <p class="body">Внутри блока 4–16, между блоками 24–32, между разделами 72 и больше. Раздел отделяется линией и воздухом, а не цветом фона.</p>
+        </div>
+        <div class="span-6 stack">
+          <h3 class="h2">Линии и углы</h3>
+          <p class="body">Линия толщиной 1 px двух видов: чернильная открывает раздел и держит навигацию, светлая разделяет строки. Скругление 2 px у кнопок, полей и меток; у изображений и листов углы прямые. Теней нет. Исключение — всплывающие окна в интерфейсе: им тень нужна, чтобы отделиться от страницы.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ИЛЛЮСТРАЦИИ И ФОТО -->
+    <section class="section" id="imagery">
+      <div class="section__head">
+        <span class="label">Иллюстрации и фото</span>
+        <div>
+          <h2 class="h1">Предмет в дневном свете и линейный рисунок для интерфейса</h2>
+          <p class="lead">Два рода изображений, у каждого своё место. Смешивать их в одном блоке нельзя.</p>
+        </div>
+      </div>
+      <div class="gallery">
+        <figure class="figure"><img src="img/studio.webp" width="1100" height="733" loading="lazy" alt="Каменный стол с раскрытым блокнотом, чашкой кофе и бордовым креслом"><figcaption><span>Обложка материала. Иллюстрация Falcon Journal, создана ИИ.</span></figcaption></figure>
+        <figure class="figure"><img src="img/infrastructure.webp" width="1100" height="619" loading="lazy" alt="Коридор с серверными стойками за стеклом, тёплый свет"><figcaption><span>Тема инфраструктуры. Иллюстрация Falcon Journal, создана ИИ.</span></figcaption></figure>
+        <figure class="figure"><img src="img/jobster.webp" width="1100" height="733" loading="lazy" alt="Ноутбук на каменном столе у окна с видом на город"><figcaption><span>Обложка продукта. Иллюстрация Falcon Journal, создана ИИ.</span></figcaption></figure>
+      </div>
+      <div class="cols" style="margin-top:var(--s6)">
+        <div class="span-6 stack">
+          <h3 class="h2">Обложки: сайт, презентации, посты, письма</h3>
+          <p class="body">Один предмет или сцена, тёплый дневной свет, камень, металл, бордовая деталь. Без текста внутри картинки; если в кадре экран, интерфейс на нём размыт. Формат 3:2 или 16:9, обрезка прямоугольная. Подпись обязательна; если картинку сделал ИИ, так и пишем.</p>
+        </div>
+        <div class="span-6 stack">
+          <h3 class="h2">Фотографии людей</h3>
+          <p class="body">Только настоящие снимки настоящих сотрудников и клиентов, с их согласия. Сгенерированных портретов не используем; условная скульптура на обложке — не портрет. Свет дневной, фон спокойный, обработка без фильтров.</p>
+        </div>
+      </div>
+      <div class="illus" style="margin-top:var(--s7)">
+        <div><img src="../assets/illustrations/svg/FAI-001.svg" loading="lazy" alt="Линейная иллюстрация FAI-001"></div>
+        <div><img src="../assets/illustrations/svg/FAI-017.svg" loading="lazy" alt="Линейная иллюстрация FAI-017"></div>
+        <div><img src="../assets/illustrations/svg/FAI-042.svg" loading="lazy" alt="Линейная иллюстрация FAI-042"></div>
+        <div><img src="../assets/illustrations/svg/FAI-096.svg" loading="lazy" alt="Линейная иллюстрация FAI-096"></div>
+      </div>
+      <p class="small" style="margin-top:10px">Интерфейс: пустые состояния, подсказки, ошибки. 128 иллюстраций FAI из версии 0.2 остаются без изменений; в редакционных макетах они не используются.</p>
+    </section>
+
+    <!-- ГОЛОС -->
+    <section class="section" id="voice">
+      <div class="section__head">
+        <span class="label">Голос и тон</span>
+        <div>
+          <h2 class="h1">Говорим как редактор: коротко, по делу, с фактами</h2>
+          <p class="lead">Журнал пишет спокойно и конкретно. Тот же тон в продукте: называем, что произошло и что делать дальше.</p>
+        </div>
+      </div>
+      <div class="cols">
+        <div class="span-8">
+          <div class="pair"><div class="yes"><p>Отчёт за день приходит в 19:00. В нём задачи, время и расход на ИИ по каждому сотруднику.</p></div><div class="no"><p>Революционная аналитика продуктивности нового поколения.</p></div></div>
+          <div class="pair"><div class="yes"><p>Оплата не прошла: банк отклонил карту. Попробуйте другую карту или Apple Pay.</p></div><div class="no"><p>Упс! Что-то пошло не так. Повторите попытку позже.</p></div></div>
+          <div class="pair"><div class="yes"><p>Здесь появятся заявки. Первая придёт, когда клиент заполнит форму на сайте.</p></div><div class="no"><p>Нет данных.</p></div></div>
+          <div class="pair"><div class="yes"><p>Сохранить изменения</p></div><div class="no"><p>ОК</p></div></div>
+        </div>
+        <div class="span-4 stack">
+          <h3 class="h3">Правила</h3>
+          <p class="body">Одна мысль в предложении. Глагол в действительном залоге. Число вместо оценки: «за 40 секунд», а не «быстро».</p>
+          <p class="body">Кнопка называет действие, и после нажатия оно называется так же: «Опубликовать» → «Опубликовано».</p>
+          <p class="body">Без восклицательных знаков, без «мы рады», без эмодзи в интерфейсе. К человеку обращаемся на «вы».</p>
+          <p class="body">Языки продуктов: русский, английский, узбекский. Тон на всех один.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ПРИМЕНЕНИЕ -->
+    <section class="section use" id="use">
+      <div class="section__head">
+        <span class="label">Применение</span>
+        <div>
+          <h2 class="h1">Шесть носителей, одна система</h2>
+          <p class="lead">Все макеты ниже собраны из токенов этой страницы. Тексты и цифры условные.</p>
+        </div>
+      </div>
+
+      <div class="cols">
+        <div class="span-7">
+          <div class="use__frame site">
+            <div class="site__bar"><span class="logo logo--lockup" style="width:104px"></span><div class="site__nav"><span>Продукты</span><span>Журнал</span><span>Команда</span></div></div>
+            <div class="site__hero">
+              <div><span class="label" style="color:var(--v)">Falcon Work</span><h3>Рабочее место с ИИ <em>для каждого в команде</em></h3><p>Изолированный компьютер в браузере, отчёт за день и выкатка в один клик.</p><span class="mini-btn">Запросить доступ</span></div>
+              <img src="img/infrastructure.webp" alt="" loading="lazy">
+            </div>
+          </div>
+          <p class="small use__cap"><b>Сайт.</b> Чернильная линия под шапкой, текст 5 колонок, картинка 7. Одна бордовая кнопка на экран.</p>
+        </div>
+        <div class="span-5">
+          <div class="use__frame app">
+            <ul class="app__side"><li aria-current="page">Обзор</li><li>Задачи</li><li>Выкатка</li><li>Отчёты</li><li>Команда</li></ul>
+            <div class="app__main">
+              <span class="label" style="color:var(--m)">Сегодня, 12 ноября</span>
+              <h3>Обзор</h3>
+              <div class="kpis"><div><b>14</b><span style="color:var(--m)">в работе</span></div><div><b>6</b><span style="color:var(--m)">выкаток</span></div><div><b>$38</b><span style="color:var(--m)">на ИИ</span></div></div>
+              <ul class="rows">
+                <li><span>Connector</span><span class="mono" style="color:var(--m)">14:02</span><span class="status status--ok">Выкачено</span></li>
+                <li><span>Falcon KYC</span><span class="mono" style="color:var(--m)">14:20</span><span class="status status--wait">Идёт</span></li>
+                <li><span>Nasib</span><span class="mono" style="color:var(--m)">13:41</span><span class="status status--ok">Выкачено</span></li>
+              </ul>
+            </div>
+          </div>
+          <p class="small use__cap"><b>Приложение.</b> Антиква только в заголовке экрана и крупных числах. Остальное гротеск. Янтарь — статус «идёт».</p>
+        </div>
+
+        <div class="span-6">
+          <div class="use__frame slide">
+            <span class="logo logo--lockup" style="width:120px"></span>
+            <h3>Итоги квартала: <em>что выкатили и что это дало</em></h3>
+            <div class="slide__foot"><span>Falcon AI</span><span>Ноябрь 2026</span></div>
+          </div>
+          <p class="small use__cap"><b>Презентация, обложка 16:9.</b> Бордовый фон только на обложке и разделителях.</p>
+        </div>
+        <div class="span-6">
+          <div class="use__frame slide slide--data">
+            <span class="label" style="color:var(--v)">Выкатка</span>
+            <div><div class="big">41</div><p style="font:400 clamp(14px,1.5vw,20px)/1.4 var(--serif);max-width:26ch;margin-top:8px">выкатка в прод за октябрь. Год назад было девять.</p></div>
+            <div class="slide__foot" style="border-top:1px solid var(--i);padding-top:10px"><span>Falcon AI</span><span class="mono">07</span></div>
+          </div>
+          <p class="small use__cap"><b>Слайд с цифрой.</b> Одна мысль на слайд, число антиквой, пояснение одной фразой.</p>
+        </div>
+
+        <div class="span-3">
+          <div class="use__frame post">
+            <span class="label" style="color:var(--v)">Falcon Journal</span>
+            <h3>Интеллект — это ремесло, <em>а не волшебство</em></h3>
+            <span class="logo logo--lockup" style="width:92px"></span>
+          </div>
+          <p class="small use__cap"><b>Пост 1:1, текстовый.</b></p>
+        </div>
+        <div class="span-3">
+          <div class="use__frame post post--photo">
+            <h3>Новый выпуск: <em>как мы строим продукты</em></h3>
+            <span class="logo logo--lockup" style="width:92px"></span>
+          </div>
+          <p class="small use__cap"><b>Пост 1:1, с обложкой.</b> Текст только поверх затемнения.</p>
+        </div>
+        <div class="span-6">
+          <div class="use__frame" style="padding:var(--s5)">
+            <div class="avatars">
+              <span class="avatar avatar--lg"><span class="logo logo--mark"></span></span>
+              <span class="avatar avatar--lg avatar--paper"><span class="logo logo--mark"></span></span>
+              <span class="avatar avatar--lg avatar--ink"><span class="logo logo--mark"></span></span>
+              <span class="avatar"><span class="logo logo--mark"></span></span>
+              <span class="avatar" style="width:28px;height:28px"><span class="logo logo--mark" style="width:18px"></span></span>
+            </div>
+          </div>
+          <p class="small use__cap"><b>Аватар отправителя и соцсетей.</b> Только знак, без надписи. Основной — бумага на бордовом: его видно в списке чатов и в светлой, и в тёмной теме телефона. Знак занимает 64% диаметра.</p>
+        </div>
+
+        <div class="span-5">
+          <div class="use__frame" style="padding:var(--s5) var(--s4)">
+            <div class="phone">
+              <div class="phone__head"><span class="avatar"><span class="logo logo--mark"></span></span><div><b>Falcon AI</b><br><span class="verified">Проверенный отправитель</span></div></div>
+              <div class="rcs">
+                <img src="img/studio.webp" alt="" loading="lazy">
+                <div class="rcs__body"><b>Отчёт за 12 ноября готов</b>14 задач закрыто, 6 выкаток. Расход на ИИ: $38.</div>
+                <div class="rcs__actions"><span>Открыть отчёт</span><span>Отписаться</span></div>
+              </div>
+            </div>
+          </div>
+          <p class="small use__cap"><b>RCS.</b> Заголовок карточки до 40 знаков, две кнопки, вторая всегда «Отписаться». Цвет кнопок задаёт бордовый бренда.</p>
+        </div>
+        <div class="span-7">
+          <div class="use__frame" style="padding:var(--s5) var(--s4);background:var(--t)">
+            <div class="mail">
+              <div class="mail__head"><span class="logo logo--lockup" style="width:110px"></span><span class="label" style="color:var(--m)">Доступ</span></div>
+              <div class="mail__body">
+                <h3>Ваше рабочее место готово</h3>
+                <p>Здравствуйте, Тимур. Мы создали для вас рабочее место в Falcon Work. Войдите по кнопке ниже: ссылка действует 24 часа.</p>
+                <p style="margin-top:18px"><span class="mini-btn">Войти в Falcon Work</span></p>
+              </div>
+              <div class="mail__foot">FalconAI LLC · Вы получили это письмо, потому что администратор добавил вас в команду.</div>
+            </div>
+          </div>
+          <p class="small use__cap"><b>Письмо.</b> Ширина 560, один заголовок, одна кнопка. В почтовых клиентах антиква заменяется на Georgia, гротеск на Arial: шрифты в письма не встраиваем.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ЧТО ВЗЯТО -->
+    <section class="section" id="journal">
+      <div class="section__head">
+        <span class="label">Что взято из журнала</span>
+        <div>
+          <h2 class="h1">Журнал — издание. Бренд — продукты. Переносится не всё</h2>
+          <p class="lead">Полный разбор со снимками — в <a href="https://github.com/FalconAI-team/falcon-branding/blob/main/docs/brandbook-next.md">docs/brandbook-next.md</a>.</p>
+        </div>
+      </div>
+      <div class="table-scroll">
+      <table class="table">
+        <thead><tr><th>Приём</th><th>В журнале</th><th>В версии 0.2</th><th>В версии 0.3</th><th>Решение</th></tr></thead>
+        <tbody>
+          <tr><td>Фон и текст</td><td>Тёплая бумага #F7F5F0, чернила #20211E</td><td>Холодный холст #F3F4F2, тёмные острова</td><td>Бумага #F6F3EC, чернила #1E1F1C</td><td><span class="verdict verdict--take">Берём</span></td></tr>
+          <tr><td>Акцент</td><td>Бордовый #6D1D2B, один</td><td>Янтарь #FFB020</td><td>Бордовый — голос, янтарь — сигнал</td><td><span class="verdict verdict--ask">Спорно</span></td></tr>
+          <tr><td>Заголовки</td><td>Georgia, крупно, плотная разрядка</td><td>Tektur</td><td>Source Serif 4</td><td><span class="verdict verdict--ask">Спорно</span></td></tr>
+          <tr><td>Текст и интерфейс</td><td>Arial 13 px</td><td>IBM Plex Sans 16 px</td><td>IBM Plex Sans 16 px</td><td><span class="verdict verdict--skip">Не берём</span></td></tr>
+          <tr><td>Линии</td><td>Волосные, чернильная у навигации</td><td>Карточки, скругления, тени</td><td>Линии; рамки только у нажимаемого</td><td><span class="verdict verdict--take">Берём</span></td></tr>
+          <tr><td>Рубрики</td><td>Прописные 9–10 px над каждым блоком</td><td>Нет</td><td>11 px, одна на блок, не над каждым заголовком</td><td><span class="verdict verdict--take">Берём с правкой</span></td></tr>
+          <tr><td>Курсив в заголовке</td><td>Последняя строка, бордовый</td><td>Нет</td><td>Один раз на страницу, не в интерфейсе</td><td><span class="verdict verdict--take">Берём с правкой</span></td></tr>
+          <tr><td>Изображения</td><td>Предметы в дневном свете, подпись «AI illustration»</td><td>128 линейных иллюстраций FAI</td><td>Оба рода, у каждого своё место</td><td><span class="verdict verdict--take">Берём</span></td></tr>
+          <tr><td>Шапка-титул</td><td>Название 104 px по центру</td><td>Нет</td><td>Только сайт компании и брендбук</td><td><span class="verdict verdict--skip">Не в продукты</span></td></tr>
+          <tr><td>Тёмная тема</td><td>Нет</td><td>Есть</td><td>Есть, тёплая</td><td><span class="verdict verdict--take">Сохраняем</span></td></tr>
+          <tr><td>Мелкий кегль</td><td>Текст 13, подписи 9 px</td><td>От 12 px</td><td>Текст 16, подписи от 12 px</td><td><span class="verdict verdict--skip">Не берём</span></td></tr>
+        </tbody>
+      </table>
+      </div>
+    </section>
+
+    <!-- ЛИЦЕНЗИИ -->
+    <section class="section" id="licenses" style="border-bottom:0">
+      <div class="section__head">
+        <span class="label">Лицензии</span>
+        <div>
+          <h2 class="h1">Что откуда и на каких правах</h2>
+        </div>
+      </div>
+      <div class="table-scroll">
+      <table class="table">
+        <thead><tr><th>Материал</th><th>Правообладатель</th><th>Лицензия</th><th>Коммерческое использование</th></tr></thead>
+        <tbody>
+          <tr><td>Source Serif 4</td><td>Adobe</td><td>SIL OFL 1.1 — <a href="fonts/source-serif-4/OFL.txt">текст</a></td><td>Разрешено</td></tr>
+          <tr><td>IBM Plex Sans, Mono</td><td>IBM Corp.</td><td>SIL OFL 1.1 — <a href="../fonts/ibm-plex-sans/OFL.txt">текст</a></td><td>Разрешено</td></tr>
+          <tr><td>Логотип, иллюстрации FAI</td><td>Falcon AI</td><td>Собственные</td><td>Свои</td></tr>
+          <tr><td>Четыре обложки</td><td>Falcon Journal (Falcon AI)</td><td>Собственные, созданы ИИ</td><td>Свои; см. оговорку ниже</td></tr>
+        </tbody>
+      </table>
+      </div>
+      <p class="small" style="margin-top:var(--s4);max-width:80ch">Оговорка: изображения, целиком созданные ИИ, в США могут не охраняться авторским правом. Использовать их можно, запретить копирование другим — возможно, нельзя. Каким сервисом они сделаны и что говорят его условия, в репозитории журнала не записано; это нужно уточнить до печати и рекламы. Подробно — <a href="NOTICE.md">NOTICE.md</a>.</p>
+    </section>
+  </main>
+
+  <footer class="footer" style="border-top:1px solid var(--rule-strong)">
+    <span class="logo logo--lockup" style="width:120px" role="img" aria-label="Falcon AI"></span>
+    <span class="small">Falcon Brand System 0.3, черновик · <a href="../preview/">действующая версия 0.2</a></span>
+  </footer>
+</div>
+</body>
+</html>
