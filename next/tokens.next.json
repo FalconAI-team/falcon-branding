@@ -1,0 +1,22 @@
+{
+  "$description": "Falcon Brand System 0.3, черновик. В сборку dist/ не входит, действующие tokens/tokens.json не заменяет.",
+  "color": {
+    "light": { "paper": "#F6F3EC", "card": "#FFFDF8", "tint": "#EDE7DD", "ink": "#1E1F1C", "muted": "#65645D", "rule": "#D8D4CA", "voice": "#6D1D2B", "onVoice": "#FFFDF8", "signal": "#FFB020", "ok": "#1F6B45", "bad": "#A3271B" },
+    "dark": { "paper": "#151412", "card": "#1F1D1A", "tint": "#26231F", "ink": "#EDE8DE", "muted": "#A39E93", "rule": "#37342E", "voice": "#8E2B3C", "voiceText": "#E3A3AB", "onVoice": "#FFFDF8", "ok": "#7CC79E", "bad": "#F0998F" }
+  },
+  "font": { "serif": "Source Serif 4", "sans": "IBM Plex Sans", "mono": "IBM Plex Mono" },
+  "type": {
+    "display": { "family": "serif", "weight": 400, "size": "clamp(40px,5.6vw,84px)", "lineHeight": 1.02, "tracking": "-0.028em" },
+    "h1": { "family": "serif", "weight": 400, "size": "clamp(32px,3.6vw,52px)", "lineHeight": 1.08, "tracking": "-0.022em" },
+    "h2": { "family": "serif", "weight": 400, "size": "clamp(24px,2.2vw,32px)", "lineHeight": 1.18, "tracking": "-0.012em" },
+    "lead": { "family": "serif", "weight": 400, "size": "clamp(18px,1.5vw,21px)", "lineHeight": 1.5 },
+    "body": { "family": "sans", "weight": 400, "size": "16px", "lineHeight": 1.65 },
+    "h3": { "family": "sans", "weight": 600, "size": "17px", "lineHeight": 1.35 },
+    "label": { "family": "sans", "weight": 600, "size": "11px", "lineHeight": 1.3, "tracking": "0.14em", "case": "upper" },
+    "caption": { "family": "sans", "weight": 400, "size": "12px", "lineHeight": 1.45 }
+  },
+  "space": [4, 8, 12, 16, 24, 32, 48, 72, 112],
+  "grid": { "desktop": { "columns": 12, "margin": 48, "gutter": 24, "max": 1320 }, "tablet": { "columns": 8, "margin": 28, "gutter": 24 }, "phone": { "columns": 4, "margin": 20, "gutter": 16 } },
+  "radius": { "control": 2, "image": 0 },
+  "rule": { "width": 1 }
+}
